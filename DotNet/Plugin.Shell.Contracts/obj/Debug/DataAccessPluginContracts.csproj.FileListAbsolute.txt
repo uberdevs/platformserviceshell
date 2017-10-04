@@ -1,0 +1,5 @@
+c:\users\mnarayan\documents\visual studio 2012\Projects\Plugin.Shell\DataAccessPluginContracts\bin\Debug\DataAccessPluginContracts.dll
+c:\users\mnarayan\documents\visual studio 2012\Projects\Plugin.Shell\DataAccessPluginContracts\bin\Debug\DataAccessPluginContracts.pdb
+c:\users\mnarayan\documents\visual studio 2012\Projects\Plugin.Shell\DataAccessPluginContracts\obj\Debug\DataAccessPluginContracts.csprojResolveAssemblyReference.cache
+c:\users\mnarayan\documents\visual studio 2012\Projects\Plugin.Shell\DataAccessPluginContracts\obj\Debug\DataAccessPluginContracts.dll
+c:\users\mnarayan\documents\visual studio 2012\Projects\Plugin.Shell\DataAccessPluginContracts\obj\Debug\DataAccessPluginContracts.pdb

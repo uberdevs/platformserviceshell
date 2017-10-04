@@ -1,0 +1,7 @@
+c:\users\mnarayan\documents\visual studio 2012\Projects\Plugin.Shell\SqlServerPlugin\bin\Debug\SqlServerPlugin.dll
+c:\users\mnarayan\documents\visual studio 2012\Projects\Plugin.Shell\SqlServerPlugin\bin\Debug\SqlServerPlugin.pdb
+c:\users\mnarayan\documents\visual studio 2012\Projects\Plugin.Shell\SqlServerPlugin\obj\Debug\SqlServerPlugin.csprojResolveAssemblyReference.cache
+c:\users\mnarayan\documents\visual studio 2012\Projects\Plugin.Shell\SqlServerPlugin\obj\Debug\SqlServerPlugin.dll
+c:\users\mnarayan\documents\visual studio 2012\Projects\Plugin.Shell\SqlServerPlugin\obj\Debug\SqlServerPlugin.pdb
+C:\Users\mnarayan\Documents\Visual Studio 2012\Projects\Plugin.Shell\SqlServerPlugin\bin\Debug\Plugin.Shell.Contracts.dll
+C:\Users\mnarayan\Documents\Visual Studio 2012\Projects\Plugin.Shell\SqlServerPlugin\bin\Debug\Plugin.Shell.Contracts.pdb

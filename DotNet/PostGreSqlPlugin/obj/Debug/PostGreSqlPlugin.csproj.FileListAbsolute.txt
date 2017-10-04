@@ -1,0 +1,10 @@
+c:\users\mnarayan\documents\visual studio 2012\Projects\Plugin.Shell\PostGreSqlPlugin\bin\Debug\PostGreSqlPlugin.dll
+c:\users\mnarayan\documents\visual studio 2012\Projects\Plugin.Shell\PostGreSqlPlugin\bin\Debug\PostGreSqlPlugin.pdb
+c:\users\mnarayan\documents\visual studio 2012\Projects\Plugin.Shell\PostGreSqlPlugin\bin\Debug\Npgsql.dll
+c:\users\mnarayan\documents\visual studio 2012\Projects\Plugin.Shell\PostGreSqlPlugin\bin\Debug\Npgsql.pdb
+c:\users\mnarayan\documents\visual studio 2012\Projects\Plugin.Shell\PostGreSqlPlugin\bin\Debug\Npgsql.xml
+c:\users\mnarayan\documents\visual studio 2012\Projects\Plugin.Shell\PostGreSqlPlugin\obj\Debug\PostGreSqlPlugin.csprojResolveAssemblyReference.cache
+c:\users\mnarayan\documents\visual studio 2012\Projects\Plugin.Shell\PostGreSqlPlugin\obj\Debug\PostGreSqlPlugin.dll
+c:\users\mnarayan\documents\visual studio 2012\Projects\Plugin.Shell\PostGreSqlPlugin\obj\Debug\PostGreSqlPlugin.pdb
+C:\Users\mnarayan\Documents\Visual Studio 2012\Projects\Plugin.Shell\PostGreSqlPlugin\bin\Debug\Plugin.Shell.Contracts.dll
+C:\Users\mnarayan\Documents\Visual Studio 2012\Projects\Plugin.Shell\PostGreSqlPlugin\bin\Debug\Plugin.Shell.Contracts.pdb
