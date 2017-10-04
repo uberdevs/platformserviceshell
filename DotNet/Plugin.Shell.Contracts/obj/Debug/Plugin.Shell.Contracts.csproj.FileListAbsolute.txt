@@ -1,0 +1,5 @@
+C:\Users\mnarayan\Documents\Visual Studio 2012\Projects\Plugin.Shell\Plugin.Shell.Contracts\bin\Debug\Plugin.Shell.Contracts.dll
+C:\Users\mnarayan\Documents\Visual Studio 2012\Projects\Plugin.Shell\Plugin.Shell.Contracts\bin\Debug\Plugin.Shell.Contracts.pdb
+C:\Users\mnarayan\Documents\Visual Studio 2012\Projects\Plugin.Shell\Plugin.Shell.Contracts\obj\Debug\Plugin.Shell.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\mnarayan\Documents\Visual Studio 2012\Projects\Plugin.Shell\Plugin.Shell.Contracts\obj\Debug\Plugin.Shell.Contracts.dll
+C:\Users\mnarayan\Documents\Visual Studio 2012\Projects\Plugin.Shell\Plugin.Shell.Contracts\obj\Debug\Plugin.Shell.Contracts.pdb
