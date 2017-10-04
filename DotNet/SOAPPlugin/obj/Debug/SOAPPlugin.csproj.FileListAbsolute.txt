@@ -1,0 +1,6 @@
+C:\Users\mnarayan\Documents\Visual Studio 2012\Projects\Plugin.Shell\SOAPPlugin\bin\Debug\SOAPPlugin.dll
+C:\Users\mnarayan\Documents\Visual Studio 2012\Projects\Plugin.Shell\SOAPPlugin\bin\Debug\SOAPPlugin.pdb
+C:\Users\mnarayan\Documents\Visual Studio 2012\Projects\Plugin.Shell\SOAPPlugin\bin\Debug\Plugin.Shell.Contracts.dll
+C:\Users\mnarayan\Documents\Visual Studio 2012\Projects\Plugin.Shell\SOAPPlugin\bin\Debug\Plugin.Shell.Contracts.pdb
+C:\Users\mnarayan\Documents\Visual Studio 2012\Projects\Plugin.Shell\SOAPPlugin\obj\Debug\SOAPPlugin.dll
+C:\Users\mnarayan\Documents\Visual Studio 2012\Projects\Plugin.Shell\SOAPPlugin\obj\Debug\SOAPPlugin.pdb

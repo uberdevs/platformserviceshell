@@ -1,0 +1,8 @@
+C:\Users\mnarayan\Documents\Visual Studio 2012\Projects\Plugin.Shell\RESTPlugin\obj\Debug\RESTPlugin.csprojResolveAssemblyReference.cache
+C:\Users\mnarayan\Documents\Visual Studio 2012\Projects\Plugin.Shell\RESTPlugin\bin\Debug\RESTPlugin.dll
+C:\Users\mnarayan\Documents\Visual Studio 2012\Projects\Plugin.Shell\RESTPlugin\bin\Debug\RESTPlugin.pdb
+C:\Users\mnarayan\Documents\Visual Studio 2012\Projects\Plugin.Shell\RESTPlugin\bin\Debug\Plugin.Shell.Contracts.dll
+C:\Users\mnarayan\Documents\Visual Studio 2012\Projects\Plugin.Shell\RESTPlugin\bin\Debug\RestSharp.dll
+C:\Users\mnarayan\Documents\Visual Studio 2012\Projects\Plugin.Shell\RESTPlugin\bin\Debug\Plugin.Shell.Contracts.pdb
+C:\Users\mnarayan\Documents\Visual Studio 2012\Projects\Plugin.Shell\RESTPlugin\obj\Debug\RESTPlugin.dll
+C:\Users\mnarayan\Documents\Visual Studio 2012\Projects\Plugin.Shell\RESTPlugin\obj\Debug\RESTPlugin.pdb
