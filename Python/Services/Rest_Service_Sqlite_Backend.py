@@ -26,9 +26,9 @@ auth = HTTPBasicAuth()
 #sys.stdout = codecs.getwriter('utf8')(sys.stdout)
 #sys.stderr = codecs.getwriter('utf8')(sys.stderr)
 
-foursquare_client_id = "ASRWBUZJHURDV0TABWQFRCJA5TJL3TPSLDBIK22RTI5TJLCT"
-foursquare_client_secret = "ULPEZYNSFCXT2XRTVWME2TORWVKQSJ1BEU12NQBPUR2X4BWH"
-google_api_key = 'AIzaSyAW__6gKmgSq3iczkfQwIpmXayskyqqaf0'
+foursquare_client_id = "GETYOUROWN"
+foursquare_client_secret = "GETYOUROWN"
+google_api_key = 'GETYOUROWN'
 
 engine = create_engine('sqlite:///A:\\Work\\Python\\Vagrant\\api_server\\DB\\restaurants.db')
 

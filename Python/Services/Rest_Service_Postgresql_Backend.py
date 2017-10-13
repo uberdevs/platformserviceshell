@@ -10,9 +10,9 @@ import Utilities.Logger_LocalDiskLogging as logger
 
 
 app = Flask(__name__)
-app.secret_key = 'P@$$W0rd'
+app.secret_key = 'GETYOUROWN'
 
-Database.initialise(host='localhost', database='restful_api', user='apiDefaultUser', password='P@$$W0rd')
+Database.initialise(host='localhost', database='restful_api', user='apiDefaultUser', password='GETYOUROWN')
 
 
 @app.before_request
