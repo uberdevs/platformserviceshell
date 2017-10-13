@@ -1,0 +1,580 @@
+2017-10-08 23:13:08,471 [testers_log] INFO: Finding Pizza In Tokyo
+Finding Pizza In Tokyo
+2017-10-08 23:13:08,982 [testers_log] INFO: Found coordinates : '35.6894875''139.6917064'
+Found coordinates : '35.6894875''139.6917064'
+2017-10-08 23:13:09,673 [testers_log] INFO: Restaurant Name: b'PIZZA SALVATORE CUOMO & BAR \xe6\x96\xb0\xe5\xae\xbf' 
+Restaurant Name: b'PIZZA SALVATORE CUOMO & BAR \xe6\x96\xb0\xe5\xae\xbf' 
+2017-10-08 23:13:09,674 [testers_log] INFO: Restaurant Address: b'\xe8\xa5\xbf\xe6\x96\xb0\xe5\xae\xbf1-26-2 (\xe6\x96\xb0\xe5\xae\xbf\xe9\x87\x8e\xe6\x9d\x91\xe3\x83\x93\xe3\x83\xab B1F) \xe6\x96\xb0\xe5\xae\xbf\xe5\x8c\xba, \xe6\x9d\xb1\xe4\xba\xac\xe9\x83\xbd 163-0590 \xe6\x97\xa5\xe6\x9c\xac ' 
+Restaurant Address: b'\xe8\xa5\xbf\xe6\x96\xb0\xe5\xae\xbf1-26-2 (\xe6\x96\xb0\xe5\xae\xbf\xe9\x87\x8e\xe6\x9d\x91\xe3\x83\x93\xe3\x83\xab B1F) \xe6\x96\xb0\xe5\xae\xbf\xe5\x8c\xba, \xe6\x9d\xb1\xe4\xba\xac\xe9\x83\xbd 163-0590 \xe6\x97\xa5\xe6\x9c\xac ' 
+2017-10-08 23:13:09,674 [testers_log] INFO: Image: https://igx.4sqi.net/img/general/300x300/Pnet7AWJsXj_uG870LZr7Tvtc0kqQ7cELB9Ae_NSbq4.jpg 
+ 
+Image: https://igx.4sqi.net/img/general/300x300/Pnet7AWJsXj_uG870LZr7Tvtc0kqQ7cELB9Ae_NSbq4.jpg 
+ 
+2017-10-08 23:13:09,957 [testers_log] INFO: Found coordinates : '-6.17511''106.8650395'
+Found coordinates : '-6.17511''106.8650395'
+2017-10-08 23:13:10,834 [testers_log] INFO: Restaurant Name: b'Waffle, tacos and BBQ' 
+Restaurant Name: b'Waffle, tacos and BBQ' 
+2017-10-08 23:13:10,834 [testers_log] INFO: Restaurant Address: b'Jl. KS tubun Jakarta Jakarta Indonesia ' 
+Restaurant Address: b'Jl. KS tubun Jakarta Jakarta Indonesia ' 
+2017-10-08 23:13:10,834 [testers_log] INFO: Image: http://pixabay.com/get/8926af5eb597ca51ca4c/1433440765/cheeseburger-34314_1280.png?direct 
+ 
+Image: http://pixabay.com/get/8926af5eb597ca51ca4c/1433440765/cheeseburger-34314_1280.png?direct 
+ 
+2017-10-08 23:13:12,436 [testers_log] INFO: Found coordinates : '-25.891968''32.6051351'
+Found coordinates : '-25.891968''32.6051351'
+2017-10-08 23:13:13,183 [testers_log] INFO: Restaurant Name: b'My Tapas @ Marisol Baia' 
+Restaurant Name: b'My Tapas @ Marisol Baia' 
+2017-10-08 23:13:13,184 [testers_log] INFO: Restaurant Address: b'Mo\xc3\xa7ambique ' 
+Restaurant Address: b'Mo\xc3\xa7ambique ' 
+2017-10-08 23:13:13,184 [testers_log] INFO: Image: https://igx.4sqi.net/img/general/300x300/87809650_hUCm0I8wy0-cRJW0SmHK4iyDQg64aaU08Yhc0MyfsJ0.jpg 
+ 
+Image: https://igx.4sqi.net/img/general/300x300/87809650_hUCm0I8wy0-cRJW0SmHK4iyDQg64aaU08Yhc0MyfsJ0.jpg 
+ 
+2017-10-08 23:13:13,805 [testers_log] INFO: Found coordinates : '30.0444196''31.2357116'
+Found coordinates : '30.0444196''31.2357116'
+2017-10-08 23:13:14,261 [testers_log] INFO: Restaurant Name: b'Falafel Car (\xd9\x81\xd9\x84\xd8\xa7\xd9\x81\xd9\x84 \xd9\x83\xd8\xa7\xd8\xb1)' 
+Restaurant Name: b'Falafel Car (\xd9\x81\xd9\x84\xd8\xa7\xd9\x81\xd9\x84 \xd9\x83\xd8\xa7\xd8\xb1)' 
+2017-10-08 23:13:14,262 [testers_log] INFO: Restaurant Address: b'\xd9\x85\xd8\xb5\xd8\xb1 ' 
+Restaurant Address: b'\xd9\x85\xd8\xb5\xd8\xb1 ' 
+2017-10-08 23:13:14,262 [testers_log] INFO: Image: http://pixabay.com/get/8926af5eb597ca51ca4c/1433440765/cheeseburger-34314_1280.png?direct 
+ 
+Image: http://pixabay.com/get/8926af5eb597ca51ca4c/1433440765/cheeseburger-34314_1280.png?direct 
+ 
+2017-10-08 23:13:14,597 [testers_log] INFO: Found coordinates : '28.6139391''77.2090212'
+Found coordinates : '28.6139391''77.2090212'
+2017-10-08 23:13:15,604 [testers_log] INFO: Restaurant Name: b'Spaghetti Kitchen' 
+Restaurant Name: b'Spaghetti Kitchen' 
+2017-10-08 23:13:15,604 [testers_log] INFO: Restaurant Address: b'Shop No \xe2\x80\x93 4, Ist & IInd Floor (Sundar Nagar Market) New Delhi 110003 Delhi India ' 
+Restaurant Address: b'Shop No \xe2\x80\x93 4, Ist & IInd Floor (Sundar Nagar Market) New Delhi 110003 Delhi India ' 
+2017-10-08 23:13:15,604 [testers_log] INFO: Image: http://pixabay.com/get/8926af5eb597ca51ca4c/1433440765/cheeseburger-34314_1280.png?direct 
+ 
+Image: http://pixabay.com/get/8926af5eb597ca51ca4c/1433440765/cheeseburger-34314_1280.png?direct 
+ 
+2017-10-08 23:13:16,977 [testers_log] INFO: Found coordinates : '46.2043907''6.1431577'
+Found coordinates : '46.2043907''6.1431577'
+2017-10-08 23:13:17,542 [testers_log] INFO: Restaurant Name: b'Tea-Room Cappuccino' 
+Restaurant Name: b'Tea-Room Cappuccino' 
+2017-10-08 23:13:17,542 [testers_log] INFO: Restaurant Address: b'Rue des Paquis 17 1201 Gen\xc3\xa8ve Suisse ' 
+Restaurant Address: b'Rue des Paquis 17 1201 Gen\xc3\xa8ve Suisse ' 
+2017-10-08 23:13:17,542 [testers_log] INFO: Image: https://igx.4sqi.net/img/general/300x300/6480155_eE-1x351SiNg-vZceEqC1Kc2sUn0E-2YDzUlZMGM3_U.jpg 
+ 
+Image: https://igx.4sqi.net/img/general/300x300/6480155_eE-1x351SiNg-vZceEqC1Kc2sUn0E-2YDzUlZMGM3_U.jpg 
+ 
+2017-10-08 23:13:17,872 [testers_log] INFO: Found coordinates : '34.0522342''-118.2436849'
+Found coordinates : '34.0522342''-118.2436849'
+2017-10-08 23:13:18,813 [testers_log] INFO: Restaurant Name: b'Sushi Gen' 
+Restaurant Name: b'Sushi Gen' 
+2017-10-08 23:13:18,813 [testers_log] INFO: Restaurant Address: b'422 E 2nd St (btw Central & Alameda St.) Los Angeles, CA 90012 United States ' 
+Restaurant Address: b'422 E 2nd St (btw Central & Alameda St.) Los Angeles, CA 90012 United States ' 
+2017-10-08 23:13:18,814 [testers_log] INFO: Image: https://igx.4sqi.net/img/general/300x300/KEi8pONMVi-80G-rxKTWvwSj_sXoVXkOh9nIyL2Xj3g.jpg 
+ 
+Image: https://igx.4sqi.net/img/general/300x300/KEi8pONMVi-80G-rxKTWvwSj_sXoVXkOh9nIyL2Xj3g.jpg 
+ 
+2017-10-08 23:13:19,700 [testers_log] INFO: Found coordinates : '-16.489689''-68.11929359999999'
+Found coordinates : '-16.489689''-68.11929359999999'
+2017-10-08 23:13:20,767 [testers_log] INFO: Restaurant Name: b"Rock'N steak" 
+Restaurant Name: b"Rock'N steak" 
+2017-10-08 23:13:20,768 [testers_log] INFO: Restaurant Address: b'San Miguel Bolivia ' 
+Restaurant Address: b'San Miguel Bolivia ' 
+2017-10-08 23:13:20,768 [testers_log] INFO: Image: http://pixabay.com/get/8926af5eb597ca51ca4c/1433440765/cheeseburger-34314_1280.png?direct 
+ 
+Image: http://pixabay.com/get/8926af5eb597ca51ca4c/1433440765/cheeseburger-34314_1280.png?direct 
+ 
+2017-10-08 23:13:22,480 [testers_log] INFO: Found coordinates : '-33.8688197''151.2092955'
+Found coordinates : '-33.8688197''151.2092955'
+2017-10-08 23:13:23,023 [testers_log] INFO: Restaurant Name: b'Mega Gyros' 
+Restaurant Name: b'Mega Gyros' 
+2017-10-08 23:13:23,024 [testers_log] INFO: Restaurant Address: b'555 Crown Street (Cleveland St) Surry Hills NSW 2010 Australia ' 
+Restaurant Address: b'555 Crown Street (Cleveland St) Surry Hills NSW 2010 Australia ' 
+2017-10-08 23:13:23,024 [testers_log] INFO: Image: https://igx.4sqi.net/img/general/300x300/17185517_9ougxGhruC2qwtVEGCp1zcLC_TXUjc6RrMuxg__E_6A.jpg 
+ 
+Image: https://igx.4sqi.net/img/general/300x300/17185517_9ougxGhruC2qwtVEGCp1zcLC_TXUjc6RrMuxg__E_6A.jpg 
+ 
+2017-10-09 00:00:50,182 [testers_log] INFO: Finding Pizza In Tokyo
+Finding Pizza In Tokyo
+2017-10-09 00:00:50,676 [testers_log] INFO: Found coordinates : '35.6894875''139.6917064'
+Found coordinates : '35.6894875''139.6917064'
+2017-10-09 00:00:51,516 [testers_log] INFO: Restaurant Name: b'PIZZA SALVATORE CUOMO & BAR \xe6\x96\xb0\xe5\xae\xbf' 
+Restaurant Name: b'PIZZA SALVATORE CUOMO & BAR \xe6\x96\xb0\xe5\xae\xbf' 
+2017-10-09 00:00:51,516 [testers_log] INFO: Restaurant Address: b'\xe8\xa5\xbf\xe6\x96\xb0\xe5\xae\xbf1-26-2 (\xe6\x96\xb0\xe5\xae\xbf\xe9\x87\x8e\xe6\x9d\x91\xe3\x83\x93\xe3\x83\xab B1F) \xe6\x96\xb0\xe5\xae\xbf\xe5\x8c\xba, \xe6\x9d\xb1\xe4\xba\xac\xe9\x83\xbd 163-0590 \xe6\x97\xa5\xe6\x9c\xac ' 
+Restaurant Address: b'\xe8\xa5\xbf\xe6\x96\xb0\xe5\xae\xbf1-26-2 (\xe6\x96\xb0\xe5\xae\xbf\xe9\x87\x8e\xe6\x9d\x91\xe3\x83\x93\xe3\x83\xab B1F) \xe6\x96\xb0\xe5\xae\xbf\xe5\x8c\xba, \xe6\x9d\xb1\xe4\xba\xac\xe9\x83\xbd 163-0590 \xe6\x97\xa5\xe6\x9c\xac ' 
+2017-10-09 00:00:52,402 [testers_log] INFO: Found coordinates : '-6.17511''106.8650395'
+Found coordinates : '-6.17511''106.8650395'
+2017-10-09 00:00:53,029 [testers_log] INFO: Restaurant Name: b'BBQ Tacos' 
+Restaurant Name: b'BBQ Tacos' 
+2017-10-09 00:00:53,029 [testers_log] INFO: Restaurant Address: b'KS Tubun Raya (Petamburan) Jakarta Pusat Jakarta 10260 Indonesia ' 
+Restaurant Address: b'KS Tubun Raya (Petamburan) Jakarta Pusat Jakarta 10260 Indonesia ' 
+2017-10-09 00:00:54,111 [testers_log] INFO: Found coordinates : '-25.891968''32.6051351'
+Found coordinates : '-25.891968''32.6051351'
+2017-10-09 00:00:54,466 [testers_log] INFO: Restaurant Name: b'My Tapas @ Marisol Baia' 
+Restaurant Name: b'My Tapas @ Marisol Baia' 
+2017-10-09 00:00:54,467 [testers_log] INFO: Restaurant Address: b'Mo\xc3\xa7ambique ' 
+Restaurant Address: b'Mo\xc3\xa7ambique ' 
+2017-10-09 00:00:55,278 [testers_log] INFO: Found coordinates : '30.0444196''31.2357116'
+Found coordinates : '30.0444196''31.2357116'
+2017-10-09 00:00:55,697 [testers_log] INFO: Restaurant Name: b'Falafel Car (\xd9\x81\xd9\x84\xd8\xa7\xd9\x81\xd9\x84 \xd9\x83\xd8\xa7\xd8\xb1)' 
+Restaurant Name: b'Falafel Car (\xd9\x81\xd9\x84\xd8\xa7\xd9\x81\xd9\x84 \xd9\x83\xd8\xa7\xd8\xb1)' 
+2017-10-09 00:00:55,697 [testers_log] INFO: Restaurant Address: b'\xd9\x85\xd8\xb5\xd8\xb1 ' 
+Restaurant Address: b'\xd9\x85\xd8\xb5\xd8\xb1 ' 
+2017-10-09 00:00:56,461 [testers_log] INFO: Found coordinates : '28.6139391''77.2090212'
+Found coordinates : '28.6139391''77.2090212'
+2017-10-09 00:00:56,854 [testers_log] INFO: Restaurant Name: b'Spaghetti Kitchen' 
+Restaurant Name: b'Spaghetti Kitchen' 
+2017-10-09 00:00:56,854 [testers_log] INFO: Restaurant Address: b'Shop No \xe2\x80\x93 4, Ist & IInd Floor (Sundar Nagar Market) New Delhi 110003 Delhi India ' 
+Restaurant Address: b'Shop No \xe2\x80\x93 4, Ist & IInd Floor (Sundar Nagar Market) New Delhi 110003 Delhi India ' 
+2017-10-09 00:00:57,709 [testers_log] INFO: Found coordinates : '46.2043907''6.1431577'
+Found coordinates : '46.2043907''6.1431577'
+2017-10-09 00:00:59,130 [testers_log] INFO: Restaurant Name: b'Tea-Room Cappuccino' 
+Restaurant Name: b'Tea-Room Cappuccino' 
+2017-10-09 00:00:59,131 [testers_log] INFO: Restaurant Address: b'Rue des Paquis 17 1201 Gen\xc3\xa8ve Suisse ' 
+Restaurant Address: b'Rue des Paquis 17 1201 Gen\xc3\xa8ve Suisse ' 
+2017-10-09 00:01:00,050 [testers_log] INFO: Found coordinates : '34.0522342''-118.2436849'
+Found coordinates : '34.0522342''-118.2436849'
+2017-10-09 00:01:01,307 [testers_log] INFO: Restaurant Name: b'Sushi Gen' 
+Restaurant Name: b'Sushi Gen' 
+2017-10-09 00:01:01,307 [testers_log] INFO: Restaurant Address: b'422 E 2nd St (btw Central & Alameda St.) Los Angeles, CA 90012 United States ' 
+Restaurant Address: b'422 E 2nd St (btw Central & Alameda St.) Los Angeles, CA 90012 United States ' 
+2017-10-09 00:01:01,604 [testers_log] INFO: Found coordinates : '-16.489689''-68.11929359999999'
+Found coordinates : '-16.489689''-68.11929359999999'
+2017-10-09 00:01:02,204 [testers_log] INFO: Restaurant Name: b"Rock'N steak" 
+Restaurant Name: b"Rock'N steak" 
+2017-10-09 00:01:02,204 [testers_log] INFO: Restaurant Address: b'San Miguel Bolivia ' 
+Restaurant Address: b'San Miguel Bolivia ' 
+2017-10-09 00:01:03,346 [testers_log] INFO: Found coordinates : '-33.8688197''151.2092955'
+Found coordinates : '-33.8688197''151.2092955'
+2017-10-09 00:01:04,071 [testers_log] INFO: Restaurant Name: b'Mega Gyros' 
+Restaurant Name: b'Mega Gyros' 
+2017-10-09 00:01:04,072 [testers_log] INFO: Restaurant Address: b'555 Crown Street (Cleveland St) Surry Hills NSW 2010 Australia ' 
+Restaurant Address: b'555 Crown Street (Cleveland St) Surry Hills NSW 2010 Australia ' 
+2017-10-09 00:01:51,808 [testers_log] ERROR: Received an unsuccessful status code of 500
+Received an unsuccessful status code of 500
+2017-10-09 00:01:51,808 [testers_log] ERROR: Security Test 1 FAILED: Could not make a new user
+Security Test 1 FAILED: Could not make a new user
+2017-10-09 00:06:34,647 [testers_log] ERROR: Received an unsuccessful status code of 500
+Received an unsuccessful status code of 500
+2017-10-09 00:06:34,647 [testers_log] ERROR: Security Test 1 FAILED: Could not make a new user
+Security Test 1 FAILED: Could not make a new user
+2017-10-09 00:07:44,604 [testers_log] ERROR: Received an unsuccessful status code of 500
+Received an unsuccessful status code of 500
+2017-10-09 00:07:44,604 [testers_log] ERROR: Security Test 1 FAILED: Could not make a new user
+Security Test 1 FAILED: Could not make a new user
+2017-10-09 00:32:14,258 [testers_log] ERROR: Received an unsuccessful status code of 500
+Received an unsuccessful status code of 500
+2017-10-09 00:32:14,258 [testers_log] ERROR: Security Test 1 FAILED: Could not make a new user
+Security Test 1 FAILED: Could not make a new user
+2017-10-09 00:34:47,186 [testers_log] ERROR: Security Test 1 FAILED: Could not make a new user
+Security Test 1 FAILED: Could not make a new user
+2017-10-09 00:35:32,024 [testers_log] INFO: URL : http://localhost:5000/users
+URL : http://localhost:5000/users
+2017-10-09 00:35:32,024 [testers_log] INFO: Data : {"username": "apiDefaultUser", "password": "P@$$W0rd"}
+Data : {"username": "apiDefaultUser", "password": "P@$$W0rd"}
+2017-10-09 00:35:33,051 [testers_log] INFO: Response : {'content-type': 'text/html; charset=utf-8', 'x-xss-protection': '0', 'connection': 'close', 'server': 'Werkzeug/0.12.2 Python/3.6.2', 'date': 'Mon, 09 Oct 2017 04:35:33 GMT', 'status': '500'} Content : b'<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"\n  "http://www.w3.org/TR/html4/loose.dtd">\n<html>\n  <head>\n    <title>TypeError: write() argument must be str, not bytes // Werkzeug Debugger</title>\n    <link rel="stylesheet" href="?__debugger__=yes&amp;cmd=resource&amp;f=style.css"\n        type="text/css">\n    <!-- We need to make sure this has a favicon so that the debugger does\n         not by accident trigger a request to /favicon.ico which might\n         change the application state. -->\n    <link rel="shortcut icon"\n        href="?__debugger__=yes&amp;cmd=resource&amp;f=console.png">\n    <script src="?__debugger__=yes&amp;cmd=resource&amp;f=jquery.js"></script>\n    <script src="?__debugger__=yes&amp;cmd=resource&amp;f=debugger.js"></script>\n    <script type="text/javascript">\n      var TRACEBACK = 1753615276184,\n          CONSOLE_MODE = false,\n          EVALEX = true,\n          EVALEX_TRUSTED = false,\n          SECRET = "af0OBhMBsM9dAe5eAMMt";\n    </script>\n  </head>\n  <body style="background-color: #fff">\n    <div class="debugger">\n<h1>builtins.TypeError</h1>\n<div class="detail">\n  <p class="errormsg">TypeError: write() argument must be str, not bytes</p>\n</div>\n<h2 class="traceback">Traceback <em>(most recent call last)</em></h2>\n<div class="traceback">\n  \n  <ul><li><div class="frame" id="frame-1753615275904">\n  <h4>File <cite class="filename">"C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py"</cite>,\n      line <em class="line">1997</em>,\n      in <code class="function">__call__</code></h4>\n  <div class="source"><pre class="line before"><span class="ws">                </span>error = None</pre>\n<pre class="line before"><span class="ws">            </span>ctx.auto_pop(error)</pre>\n<pre class="line before"><span class="ws"></span> </pre>\n<pre class="line before"><span class="ws">    </span>def __call__(self, environ, start_response):</pre>\n<pre class="line before"><span class="ws">        </span>&quot;&quot;&quot;Shortcut for :attr:`wsgi_app`.&quot;&quot;&quot;</pre>\n<pre class="line current"><span class="ws">        </span>return self.wsgi_app(environ, start_response)</pre>\n<pre class="line after"><span class="ws"></span> </pre>\n<pre class="line after"><span class="ws">    </span>def __repr__(self):</pre>\n<pre class="line after"><span class="ws">        </span>return \'&lt;%s %r&gt;\' % (</pre>\n<pre class="line after"><span class="ws">            </span>self.__class__.__name__,</pre>\n<pre class="line after"><span class="ws">            </span>self.name,</pre></div>\n</div>\n\n<li><div class="frame" id="frame-1753615275624">\n  <h4>File <cite class="filename">"C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py"</cite>,\n      line <em class="line">1985</em>,\n      in <code class="function">wsgi_app</code></h4>\n  <div class="source"><pre class="line before"><span class="ws">        </span>try:</pre>\n<pre class="line before"><span class="ws">            </span>try:</pre>\n<pre class="line before"><span class="ws">                </span>response = self.full_dispatch_request()</pre>\n<pre class="line before"><span class="ws">            </span>except Exception as e:</pre>\n<pre class="line before"><span class="ws">                </span>error = e</pre>\n<pre class="line current"><span class="ws">                </span>response = self.handle_exception(e)</pre>\n<pre class="line after"><span class="ws">            </span>except:</pre>\n<pre class="line after"><span class="ws">                </span>error = sys.exc_info()[1]</pre>\n<pre class="line after"><span class="ws">                </span>raise</pre>\n<pre class="line after"><span class="ws">            </span>return response(environ, start_response)</pre>\n<pre class="line after"><span class="ws">        </span>finally:</pre></div>\n</div>\n\n<li><div class="frame" id="frame-1753615277360">\n  <h4>File <cite class="filename">"C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py"</cite>,\n      line <em class="line">1540</em>,\n      in <code class="function">handle_exception</code></h4>\n  <div class="source"><pre class="line before"><span class="ws">            </span># if we want to repropagate the exception, we can attempt to</pre>\n<pre class="line before"><span class="ws">            </span># raise it with the whole traceback in case we can do that</pre>\n<pre class="line before"><span class="ws">            </span># (the function was actually called from the except part)</pre>\n<pre class="line before"><span class="ws">            </span># otherwise, we just raise the error again</pre>\n<pre class="line before"><span class="ws">            </span>if exc_value is e:</pre>\n<pre class="line current"><span class="ws">                </span>reraise(exc_type, exc_value, tb)</pre>\n<pre class="line after"><span class="ws">            </span>else:</pre>\n<pre class="line after"><span class="ws">                </span>raise e</pre>\n<pre class="line after"><span class="ws"></span> </pre>\n<pre class="line after"><span class="ws">        </span>self.log_exception((exc_type, exc_value, tb))</pre>\n<pre class="line after"><span class="ws">        </span>if handler is None:</pre></div>\n</div>\n\n<li><div class="frame" id="frame-1753615277472">\n  <h4>File <cite class="filename">"C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\_compat.py"</cite>,\n      line <em class="line">33</em>,\n      in <code class="function">reraise</code></h4>\n  <div class="source"><pre class="line before"><span class="ws">    </span>from io import StringIO</pre>\n<pre class="line before"><span class="ws"></span> </pre>\n<pre class="line before"><span class="ws">    </span>def reraise(tp, value, tb=None):</pre>\n<pre class="line before"><span class="ws">        </span>if value.__traceback__ is not tb:</pre>\n<pre class="line before"><span class="ws">            </span>raise value.with_traceback(tb)</pre>\n<pre class="line current"><span class="ws">        </span>raise value</pre>\n<pre class="line after"><span class="ws"></span> </pre>\n<pre class="line after"><span class="ws">    </span>implements_to_string = _identity</pre>\n<pre class="line after"><span class="ws"></span> </pre>\n<pre class="line after"><span class="ws"></span>else:</pre>\n<pre class="line after"><span class="ws">    </span>text_type = unicode</pre></div>\n</div>\n\n<li><div class="frame" id="frame-1753615277584">\n  <h4>File <cite class="filename">"C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py"</cite>,\n      line <em class="line">1982</em>,\n      in <code class="function">wsgi_app</code></h4>\n  <div class="source"><pre class="line before"><span class="ws">        </span>ctx = self.request_context(environ)</pre>\n<pre class="line before"><span class="ws">        </span>ctx.push()</pre>\n<pre class="line before"><span class="ws">        </span>error = None</pre>\n<pre class="line before"><span class="ws">        </span>try:</pre>\n<pre class="line before"><span class="ws">            </span>try:</pre>\n<pre class="line current"><span class="ws">                </span>response = self.full_dispatch_request()</pre>\n<pre class="line after"><span class="ws">            </span>except Exception as e:</pre>\n<pre class="line after"><span class="ws">                </span>error = e</pre>\n<pre class="line after"><span class="ws">                </span>response = self.handle_exception(e)</pre>\n<pre class="line after"><span class="ws">            </span>except:</pre>\n<pre class="line after"><span class="ws">                </span>error = sys.exc_info()[1]</pre></div>\n</div>\n\n<li><div class="frame" id="frame-1753615277696">\n  <h4>File <cite class="filename">"C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py"</cite>,\n      line <em class="line">1614</em>,\n      in <code class="function">full_dispatch_request</code></h4>\n  <div class="source"><pre class="line before"><span class="ws">            </span>request_started.send(self)</pre>\n<pre class="line before"><span class="ws">            </span>rv = self.preprocess_request()</pre>\n<pre class="line before"><span class="ws">            </span>if rv is None:</pre>\n<pre class="line before"><span class="ws">                </span>rv = self.dispatch_request()</pre>\n<pre class="line before"><span class="ws">        </span>except Exception as e:</pre>\n<pre class="line current"><span class="ws">            </span>rv = self.handle_user_exception(e)</pre>\n<pre class="line after"><span class="ws">        </span>return self.finalize_request(rv)</pre>\n<pre class="line after"><span class="ws"></span> </pre>\n<pre class="line after"><span class="ws">    </span>def finalize_request(self, rv, from_error_handler=False):</pre>\n<pre class="line after"><span class="ws">        </span>&quot;&quot;&quot;Given the return value from a view function this finalizes</pre>\n<pre class="line after"><span class="ws">        </span>the request by converting it into a response and invoking the</pre></div>\n</div>\n\n<li><div class="frame" id="frame-1753615277024">\n  <h4>File <cite class="filename">"C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py"</cite>,\n      line <em class="line">1517</em>,\n      in <code class="function">handle_user_exception</code></h4>\n  <div class="source"><pre class="line before"><span class="ws">            </span>return self.handle_http_exception(e)</pre>\n<pre class="line before"><span class="ws"></span> </pre>\n<pre class="line before"><span class="ws">        </span>handler = self._find_error_handler(e)</pre>\n<pre class="line before"><span class="ws"></span> </pre>\n<pre class="line before"><span class="ws">        </span>if handler is None:</pre>\n<pre class="line current"><span class="ws">            </span>reraise(exc_type, exc_value, tb)</pre>\n<pre class="line after"><span class="ws">        </span>return handler(e)</pre>\n<pre class="line after"><span class="ws"></span> </pre>\n<pre class="line after"><span class="ws">    </span>def handle_exception(self, e):</pre>\n<pre class="line after"><span class="ws">        </span>&quot;&quot;&quot;Default exception handling that kicks in when an exception</pre>\n<pre class="line after"><span class="ws">        </span>occurs that is not caught.  In debug mode the exception will</pre></div>\n</div>\n\n<li><div class="frame" id="frame-1753615277192">\n  <h4>File <cite class="filename">"C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\_compat.py"</cite>,\n      line <em class="line">33</em>,\n      in <code class="function">reraise</code></h4>\n  <div class="source"><pre class="line before"><span class="ws">    </span>from io import StringIO</pre>\n<pre class="line before"><span class="ws"></span> </pre>\n<pre class="line before"><span class="ws">    </span>def reraise(tp, value, tb=None):</pre>\n<pre class="line before"><span class="ws">        </span>if value.__traceback__ is not tb:</pre>\n<pre class="line before"><span class="ws">            </span>raise value.with_traceback(tb)</pre>\n<pre class="line current"><span class="ws">        </span>raise value</pre>\n<pre class="line after"><span class="ws"></span> </pre>\n<pre class="line after"><span class="ws">    </span>implements_to_string = _identity</pre>\n<pre class="line after"><span class="ws"></span> </pre>\n<pre class="line after"><span class="ws"></span>else:</pre>\n<pre class="line after"><span class="ws">    </span>text_type = unicode</pre></div>\n</div>\n\n<li><div class="frame" id="frame-1753615277640">\n  <h4>File <cite class="filename">"C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py"</cite>,\n      line <em class="line">1612</em>,\n      in <code class="function">full_dispatch_request</code></h4>\n  <div class="source"><pre class="line before"><span class="ws">        </span>self.try_trigger_before_first_request_functions()</pre>\n<pre class="line before"><span class="ws">        </span>try:</pre>\n<pre class="line before"><span class="ws">            </span>request_started.send(self)</pre>\n<pre class="line before"><span class="ws">            </span>rv = self.preprocess_request()</pre>\n<pre class="line before"><span class="ws">            </span>if rv is None:</pre>\n<pre class="line current"><span class="ws">                </span>rv = self.dispatch_request()</pre>\n<pre class="line after"><span class="ws">        </span>except Exception as e:</pre>\n<pre class="line after"><span class="ws">            </span>rv = self.handle_user_exception(e)</pre>\n<pre class="line after"><span class="ws">        </span>return self.finalize_request(rv)</pre>\n<pre class="line after"><span class="ws"></span> </pre>\n<pre class="line after"><span class="ws">    </span>def finalize_request(self, rv, from_error_handler=False):</pre></div>\n</div>\n\n<li><div class="frame" id="frame-1753615277248">\n  <h4>File <cite class="filename">"C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py"</cite>,\n      line <em class="line">1598</em>,\n      in <code class="function">dispatch_request</code></h4>\n  <div class="source"><pre class="line before"><span class="ws">        </span># request came with the OPTIONS method, reply automatically</pre>\n<pre class="line before"><span class="ws">        </span>if getattr(rule, \'provide_automatic_options\', False) \\</pre>\n<pre class="line before"><span class="ws">           </span>and req.method == \'OPTIONS\':</pre>\n<pre class="line before"><span class="ws">            </span>return self.make_default_options_response()</pre>\n<pre class="line before"><span class="ws">        </span># otherwise dispatch to the handler for that endpoint</pre>\n<pre class="line current"><span class="ws">        </span>return self.view_functions[rule.endpoint](**req.view_args)</pre>\n<pre class="line after"><span class="ws"></span> </pre>\n<pre class="line after"><span class="ws">    </span>def full_dispatch_request(self):</pre>\n<pre class="line after"><span class="ws">        </span>&quot;&quot;&quot;Dispatches the request and on top of that performs request</pre>\n<pre class="line after"><span class="ws">        </span>pre and postprocessing as well as HTTP exception catching and</pre>\n<pre class="line after"><span class="ws">        </span>error handling.</pre></div>\n</div>\n\n<li><div class="frame" id="frame-1753615277752">\n  <h4>File <cite class="filename">"A:\\Work\\Python\\Vagrant\\api_server\\Rest_Service_sqlite_Backend.py"</cite>,\n      line <em class="line">169</em>,\n      in <code class="function">new_user</code></h4>\n  <div class="source"><pre class="line before"><span class="ws">        </span>logger.logging_rest_service.error(\'Missing an argument(s)\')</pre>\n<pre class="line before"><span class="ws">        </span>print(&quot;missing arguments&quot;)</pre>\n<pre class="line before"><span class="ws">        </span>abort(400)</pre>\n<pre class="line before"><span class="ws"></span> </pre>\n<pre class="line before"><span class="ws">    </span>if session.query(User).filter_by(username = username).first() is not None:</pre>\n<pre class="line current"><span class="ws">        </span>print(&quot;existing user&quot;)</pre>\n<pre class="line after"><span class="ws">        </span>logger.logging_rest_service.info(\'Existing User\')</pre>\n<pre class="line after"><span class="ws">        </span>user = session.query(User).filter_by(username=username).first()</pre>\n<pre class="line after"><span class="ws">        </span>return jsonify({\'message\':\'user already exists\'}), 200#, {\'Location\': url_for(\'get_user\', id = user.id, _external = True)}</pre>\n<pre class="line after"><span class="ws"></span> </pre>\n<pre class="line after"><span class="ws">    </span>user = User(username = username)</pre></div>\n</div>\n\n<li><div class="frame" id="frame-1753615277808">\n  <h4>File <cite class="filename">"C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\codecs.py"</cite>,\n      line <em class="line">377</em>,\n      in <code class="function">write</code></h4>\n  <div class="source"><pre class="line before"><span class="ws">    </span>def write(self, object):</pre>\n<pre class="line before"><span class="ws"></span> </pre>\n<pre class="line before"><span class="ws">        </span>&quot;&quot;&quot; Writes the object\'s contents encoded to self.stream.</pre>\n<pre class="line before"><span class="ws">        </span>&quot;&quot;&quot;</pre>\n<pre class="line before"><span class="ws">        </span>data, consumed = self.encode(object, self.errors)</pre>\n<pre class="line current"><span class="ws">        </span>self.stream.write(data)</pre>\n<pre class="line after"><span class="ws"></span> </pre>\n<pre class="line after"><span class="ws">    </span>def writelines(self, list):</pre>\n<pre class="line after"><span class="ws"></span> </pre>\n<pre class="line after"><span class="ws">        </span>&quot;&quot;&quot; Writes the concatenated list of strings to the stream</pre>\n<pre class="line after"><span class="ws">            </span>using .write().</pre></div>\n</div>\n</ul>\n  <blockquote>TypeError: write() argument must be str, not bytes</blockquote>\n</div>\n\n<div class="plain">\n  <form action="/?__debugger__=yes&amp;cmd=paste" method="post">\n    <p>\n      <input type="hidden" name="language" value="pytb">\n      This is the Copy/Paste friendly version of the traceback.  <span\n      class="pastemessage">You can also paste this traceback into\n      a <a href="https://gist.github.com/">gist</a>:\n      <input type="submit" value="create paste"></span>\n    </p>\n    <textarea cols="50" rows="10" name="code" readonly>Traceback (most recent call last):\n  File &quot;C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py&quot;, line 1997, in __call__\n    return self.wsgi_app(environ, start_response)\n  File &quot;C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py&quot;, line 1985, in wsgi_app\n    response = self.handle_exception(e)\n  File &quot;C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py&quot;, line 1540, in handle_exception\n    reraise(exc_type, exc_value, tb)\n  File &quot;C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\_compat.py&quot;, line 33, in reraise\n    raise value\n  File &quot;C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py&quot;, line 1982, in wsgi_app\n    response = self.full_dispatch_request()\n  File &quot;C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py&quot;, line 1614, in full_dispatch_request\n    rv = self.handle_user_exception(e)\n  File &quot;C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py&quot;, line 1517, in handle_user_exception\n    reraise(exc_type, exc_value, tb)\n  File &quot;C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\_compat.py&quot;, line 33, in reraise\n    raise value\n  File &quot;C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py&quot;, line 1612, in full_dispatch_request\n    rv = self.dispatch_request()\n  File &quot;C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py&quot;, line 1598, in dispatch_request\n    return self.view_functions[rule.endpoint](**req.view_args)\n  File &quot;A:\\Work\\Python\\Vagrant\\api_server\\Rest_Service_sqlite_Backend.py&quot;, line 169, in new_user\n    print(&quot;existing user&quot;)\n  File &quot;C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\codecs.py&quot;, line 377, in write\n    self.stream.write(data)\nTypeError: write() argument must be str, not bytes</textarea>\n  </form>\n</div>\n<div class="explanation">\n  The debugger caught an exception in your WSGI application.  You can now\n  look at the traceback which led to the error.  <span class="nojavascript">\n  If you enable JavaScript you can also use additional features such as code\n  execution (if the evalex feature is enabled), automatic pasting of the\n  exceptions and much more.</span>\n</div>\n      <div class="footer">\n        Brought to you by <strong class="arthur">DON\'T PANIC</strong>, your\n        friendly Werkzeug powered traceback interpreter.\n      </div>\n    </div>\n\n    <div class="pin-prompt">\n      <div class="inner">\n        <h3>Console Locked</h3>\n        <p>\n          The console is locked and needs to be unlocked by entering the PIN.\n          You can find the PIN printed out on the standard output of your\n          shell that runs the server.\n        <form>\n          <p>PIN:\n            <input type=text name=pin size=14>\n            <input type=submit name=btn value="Confirm Pin">\n        </form>\n      </div>\n    </div>\n  </body>\n</html>\n\n<!--\n\nTraceback (most recent call last):\n  File "C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py", line 1997, in __call__\n    return self.wsgi_app(environ, start_response)\n  File "C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py", line 1985, in wsgi_app\n    response = self.handle_exception(e)\n  File "C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py", line 1540, in handle_exception\n    reraise(exc_type, exc_value, tb)\n  File "C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\_compat.py", line 33, in reraise\n    raise value\n  File "C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py", line 1982, in wsgi_app\n    response = self.full_dispatch_request()\n  File "C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py", line 1614, in full_dispatch_request\n    rv = self.handle_user_exception(e)\n  File "C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py", line 1517, in handle_user_exception\n    reraise(exc_type, exc_value, tb)\n  File "C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\_compat.py", line 33, in reraise\n    raise value\n  File "C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py", line 1612, in full_dispatch_request\n    rv = self.dispatch_request()\n  File "C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py", line 1598, in dispatch_request\n    return self.view_functions[rule.endpoint](**req.view_args)\n  File "A:\\Work\\Python\\Vagrant\\api_server\\Rest_Service_sqlite_Backend.py", line 169, in new_user\n    print("existing user")\n  File "C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\codecs.py", line 377, in write\n    self.stream.write(data)\nTypeError: write() argument must be str, not bytes\n\n-->\n'
+Response : {'content-type': 'text/html; charset=utf-8', 'x-xss-protection': '0', 'connection': 'close', 'server': 'Werkzeug/0.12.2 Python/3.6.2', 'date': 'Mon, 09 Oct 2017 04:35:33 GMT', 'status': '500'} Content : b'<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"\n  "http://www.w3.org/TR/html4/loose.dtd">\n<html>\n  <head>\n    <title>TypeError: write() argument must be str, not bytes // Werkzeug Debugger</title>\n    <link rel="stylesheet" href="?__debugger__=yes&amp;cmd=resource&amp;f=style.css"\n        type="text/css">\n    <!-- We need to make sure this has a favicon so that the debugger does\n         not by accident trigger a request to /favicon.ico which might\n         change the application state. -->\n    <link rel="shortcut icon"\n        href="?__debugger__=yes&amp;cmd=resource&amp;f=console.png">\n    <script src="?__debugger__=yes&amp;cmd=resource&amp;f=jquery.js"></script>\n    <script src="?__debugger__=yes&amp;cmd=resource&amp;f=debugger.js"></script>\n    <script type="text/javascript">\n      var TRACEBACK = 1753615276184,\n          CONSOLE_MODE = false,\n          EVALEX = true,\n          EVALEX_TRUSTED = false,\n          SECRET = "af0OBhMBsM9dAe5eAMMt";\n    </script>\n  </head>\n  <body style="background-color: #fff">\n    <div class="debugger">\n<h1>builtins.TypeError</h1>\n<div class="detail">\n  <p class="errormsg">TypeError: write() argument must be str, not bytes</p>\n</div>\n<h2 class="traceback">Traceback <em>(most recent call last)</em></h2>\n<div class="traceback">\n  \n  <ul><li><div class="frame" id="frame-1753615275904">\n  <h4>File <cite class="filename">"C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py"</cite>,\n      line <em class="line">1997</em>,\n      in <code class="function">__call__</code></h4>\n  <div class="source"><pre class="line before"><span class="ws">                </span>error = None</pre>\n<pre class="line before"><span class="ws">            </span>ctx.auto_pop(error)</pre>\n<pre class="line before"><span class="ws"></span> </pre>\n<pre class="line before"><span class="ws">    </span>def __call__(self, environ, start_response):</pre>\n<pre class="line before"><span class="ws">        </span>&quot;&quot;&quot;Shortcut for :attr:`wsgi_app`.&quot;&quot;&quot;</pre>\n<pre class="line current"><span class="ws">        </span>return self.wsgi_app(environ, start_response)</pre>\n<pre class="line after"><span class="ws"></span> </pre>\n<pre class="line after"><span class="ws">    </span>def __repr__(self):</pre>\n<pre class="line after"><span class="ws">        </span>return \'&lt;%s %r&gt;\' % (</pre>\n<pre class="line after"><span class="ws">            </span>self.__class__.__name__,</pre>\n<pre class="line after"><span class="ws">            </span>self.name,</pre></div>\n</div>\n\n<li><div class="frame" id="frame-1753615275624">\n  <h4>File <cite class="filename">"C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py"</cite>,\n      line <em class="line">1985</em>,\n      in <code class="function">wsgi_app</code></h4>\n  <div class="source"><pre class="line before"><span class="ws">        </span>try:</pre>\n<pre class="line before"><span class="ws">            </span>try:</pre>\n<pre class="line before"><span class="ws">                </span>response = self.full_dispatch_request()</pre>\n<pre class="line before"><span class="ws">            </span>except Exception as e:</pre>\n<pre class="line before"><span class="ws">                </span>error = e</pre>\n<pre class="line current"><span class="ws">                </span>response = self.handle_exception(e)</pre>\n<pre class="line after"><span class="ws">            </span>except:</pre>\n<pre class="line after"><span class="ws">                </span>error = sys.exc_info()[1]</pre>\n<pre class="line after"><span class="ws">                </span>raise</pre>\n<pre class="line after"><span class="ws">            </span>return response(environ, start_response)</pre>\n<pre class="line after"><span class="ws">        </span>finally:</pre></div>\n</div>\n\n<li><div class="frame" id="frame-1753615277360">\n  <h4>File <cite class="filename">"C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py"</cite>,\n      line <em class="line">1540</em>,\n      in <code class="function">handle_exception</code></h4>\n  <div class="source"><pre class="line before"><span class="ws">            </span># if we want to repropagate the exception, we can attempt to</pre>\n<pre class="line before"><span class="ws">            </span># raise it with the whole traceback in case we can do that</pre>\n<pre class="line before"><span class="ws">            </span># (the function was actually called from the except part)</pre>\n<pre class="line before"><span class="ws">            </span># otherwise, we just raise the error again</pre>\n<pre class="line before"><span class="ws">            </span>if exc_value is e:</pre>\n<pre class="line current"><span class="ws">                </span>reraise(exc_type, exc_value, tb)</pre>\n<pre class="line after"><span class="ws">            </span>else:</pre>\n<pre class="line after"><span class="ws">                </span>raise e</pre>\n<pre class="line after"><span class="ws"></span> </pre>\n<pre class="line after"><span class="ws">        </span>self.log_exception((exc_type, exc_value, tb))</pre>\n<pre class="line after"><span class="ws">        </span>if handler is None:</pre></div>\n</div>\n\n<li><div class="frame" id="frame-1753615277472">\n  <h4>File <cite class="filename">"C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\_compat.py"</cite>,\n      line <em class="line">33</em>,\n      in <code class="function">reraise</code></h4>\n  <div class="source"><pre class="line before"><span class="ws">    </span>from io import StringIO</pre>\n<pre class="line before"><span class="ws"></span> </pre>\n<pre class="line before"><span class="ws">    </span>def reraise(tp, value, tb=None):</pre>\n<pre class="line before"><span class="ws">        </span>if value.__traceback__ is not tb:</pre>\n<pre class="line before"><span class="ws">            </span>raise value.with_traceback(tb)</pre>\n<pre class="line current"><span class="ws">        </span>raise value</pre>\n<pre class="line after"><span class="ws"></span> </pre>\n<pre class="line after"><span class="ws">    </span>implements_to_string = _identity</pre>\n<pre class="line after"><span class="ws"></span> </pre>\n<pre class="line after"><span class="ws"></span>else:</pre>\n<pre class="line after"><span class="ws">    </span>text_type = unicode</pre></div>\n</div>\n\n<li><div class="frame" id="frame-1753615277584">\n  <h4>File <cite class="filename">"C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py"</cite>,\n      line <em class="line">1982</em>,\n      in <code class="function">wsgi_app</code></h4>\n  <div class="source"><pre class="line before"><span class="ws">        </span>ctx = self.request_context(environ)</pre>\n<pre class="line before"><span class="ws">        </span>ctx.push()</pre>\n<pre class="line before"><span class="ws">        </span>error = None</pre>\n<pre class="line before"><span class="ws">        </span>try:</pre>\n<pre class="line before"><span class="ws">            </span>try:</pre>\n<pre class="line current"><span class="ws">                </span>response = self.full_dispatch_request()</pre>\n<pre class="line after"><span class="ws">            </span>except Exception as e:</pre>\n<pre class="line after"><span class="ws">                </span>error = e</pre>\n<pre class="line after"><span class="ws">                </span>response = self.handle_exception(e)</pre>\n<pre class="line after"><span class="ws">            </span>except:</pre>\n<pre class="line after"><span class="ws">                </span>error = sys.exc_info()[1]</pre></div>\n</div>\n\n<li><div class="frame" id="frame-1753615277696">\n  <h4>File <cite class="filename">"C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py"</cite>,\n      line <em class="line">1614</em>,\n      in <code class="function">full_dispatch_request</code></h4>\n  <div class="source"><pre class="line before"><span class="ws">            </span>request_started.send(self)</pre>\n<pre class="line before"><span class="ws">            </span>rv = self.preprocess_request()</pre>\n<pre class="line before"><span class="ws">            </span>if rv is None:</pre>\n<pre class="line before"><span class="ws">                </span>rv = self.dispatch_request()</pre>\n<pre class="line before"><span class="ws">        </span>except Exception as e:</pre>\n<pre class="line current"><span class="ws">            </span>rv = self.handle_user_exception(e)</pre>\n<pre class="line after"><span class="ws">        </span>return self.finalize_request(rv)</pre>\n<pre class="line after"><span class="ws"></span> </pre>\n<pre class="line after"><span class="ws">    </span>def finalize_request(self, rv, from_error_handler=False):</pre>\n<pre class="line after"><span class="ws">        </span>&quot;&quot;&quot;Given the return value from a view function this finalizes</pre>\n<pre class="line after"><span class="ws">        </span>the request by converting it into a response and invoking the</pre></div>\n</div>\n\n<li><div class="frame" id="frame-1753615277024">\n  <h4>File <cite class="filename">"C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py"</cite>,\n      line <em class="line">1517</em>,\n      in <code class="function">handle_user_exception</code></h4>\n  <div class="source"><pre class="line before"><span class="ws">            </span>return self.handle_http_exception(e)</pre>\n<pre class="line before"><span class="ws"></span> </pre>\n<pre class="line before"><span class="ws">        </span>handler = self._find_error_handler(e)</pre>\n<pre class="line before"><span class="ws"></span> </pre>\n<pre class="line before"><span class="ws">        </span>if handler is None:</pre>\n<pre class="line current"><span class="ws">            </span>reraise(exc_type, exc_value, tb)</pre>\n<pre class="line after"><span class="ws">        </span>return handler(e)</pre>\n<pre class="line after"><span class="ws"></span> </pre>\n<pre class="line after"><span class="ws">    </span>def handle_exception(self, e):</pre>\n<pre class="line after"><span class="ws">        </span>&quot;&quot;&quot;Default exception handling that kicks in when an exception</pre>\n<pre class="line after"><span class="ws">        </span>occurs that is not caught.  In debug mode the exception will</pre></div>\n</div>\n\n<li><div class="frame" id="frame-1753615277192">\n  <h4>File <cite class="filename">"C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\_compat.py"</cite>,\n      line <em class="line">33</em>,\n      in <code class="function">reraise</code></h4>\n  <div class="source"><pre class="line before"><span class="ws">    </span>from io import StringIO</pre>\n<pre class="line before"><span class="ws"></span> </pre>\n<pre class="line before"><span class="ws">    </span>def reraise(tp, value, tb=None):</pre>\n<pre class="line before"><span class="ws">        </span>if value.__traceback__ is not tb:</pre>\n<pre class="line before"><span class="ws">            </span>raise value.with_traceback(tb)</pre>\n<pre class="line current"><span class="ws">        </span>raise value</pre>\n<pre class="line after"><span class="ws"></span> </pre>\n<pre class="line after"><span class="ws">    </span>implements_to_string = _identity</pre>\n<pre class="line after"><span class="ws"></span> </pre>\n<pre class="line after"><span class="ws"></span>else:</pre>\n<pre class="line after"><span class="ws">    </span>text_type = unicode</pre></div>\n</div>\n\n<li><div class="frame" id="frame-1753615277640">\n  <h4>File <cite class="filename">"C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py"</cite>,\n      line <em class="line">1612</em>,\n      in <code class="function">full_dispatch_request</code></h4>\n  <div class="source"><pre class="line before"><span class="ws">        </span>self.try_trigger_before_first_request_functions()</pre>\n<pre class="line before"><span class="ws">        </span>try:</pre>\n<pre class="line before"><span class="ws">            </span>request_started.send(self)</pre>\n<pre class="line before"><span class="ws">            </span>rv = self.preprocess_request()</pre>\n<pre class="line before"><span class="ws">            </span>if rv is None:</pre>\n<pre class="line current"><span class="ws">                </span>rv = self.dispatch_request()</pre>\n<pre class="line after"><span class="ws">        </span>except Exception as e:</pre>\n<pre class="line after"><span class="ws">            </span>rv = self.handle_user_exception(e)</pre>\n<pre class="line after"><span class="ws">        </span>return self.finalize_request(rv)</pre>\n<pre class="line after"><span class="ws"></span> </pre>\n<pre class="line after"><span class="ws">    </span>def finalize_request(self, rv, from_error_handler=False):</pre></div>\n</div>\n\n<li><div class="frame" id="frame-1753615277248">\n  <h4>File <cite class="filename">"C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py"</cite>,\n      line <em class="line">1598</em>,\n      in <code class="function">dispatch_request</code></h4>\n  <div class="source"><pre class="line before"><span class="ws">        </span># request came with the OPTIONS method, reply automatically</pre>\n<pre class="line before"><span class="ws">        </span>if getattr(rule, \'provide_automatic_options\', False) \\</pre>\n<pre class="line before"><span class="ws">           </span>and req.method == \'OPTIONS\':</pre>\n<pre class="line before"><span class="ws">            </span>return self.make_default_options_response()</pre>\n<pre class="line before"><span class="ws">        </span># otherwise dispatch to the handler for that endpoint</pre>\n<pre class="line current"><span class="ws">        </span>return self.view_functions[rule.endpoint](**req.view_args)</pre>\n<pre class="line after"><span class="ws"></span> </pre>\n<pre class="line after"><span class="ws">    </span>def full_dispatch_request(self):</pre>\n<pre class="line after"><span class="ws">        </span>&quot;&quot;&quot;Dispatches the request and on top of that performs request</pre>\n<pre class="line after"><span class="ws">        </span>pre and postprocessing as well as HTTP exception catching and</pre>\n<pre class="line after"><span class="ws">        </span>error handling.</pre></div>\n</div>\n\n<li><div class="frame" id="frame-1753615277752">\n  <h4>File <cite class="filename">"A:\\Work\\Python\\Vagrant\\api_server\\Rest_Service_sqlite_Backend.py"</cite>,\n      line <em class="line">169</em>,\n      in <code class="function">new_user</code></h4>\n  <div class="source"><pre class="line before"><span class="ws">        </span>logger.logging_rest_service.error(\'Missing an argument(s)\')</pre>\n<pre class="line before"><span class="ws">        </span>print(&quot;missing arguments&quot;)</pre>\n<pre class="line before"><span class="ws">        </span>abort(400)</pre>\n<pre class="line before"><span class="ws"></span> </pre>\n<pre class="line before"><span class="ws">    </span>if session.query(User).filter_by(username = username).first() is not None:</pre>\n<pre class="line current"><span class="ws">        </span>print(&quot;existing user&quot;)</pre>\n<pre class="line after"><span class="ws">        </span>logger.logging_rest_service.info(\'Existing User\')</pre>\n<pre class="line after"><span class="ws">        </span>user = session.query(User).filter_by(username=username).first()</pre>\n<pre class="line after"><span class="ws">        </span>return jsonify({\'message\':\'user already exists\'}), 200#, {\'Location\': url_for(\'get_user\', id = user.id, _external = True)}</pre>\n<pre class="line after"><span class="ws"></span> </pre>\n<pre class="line after"><span class="ws">    </span>user = User(username = username)</pre></div>\n</div>\n\n<li><div class="frame" id="frame-1753615277808">\n  <h4>File <cite class="filename">"C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\codecs.py"</cite>,\n      line <em class="line">377</em>,\n      in <code class="function">write</code></h4>\n  <div class="source"><pre class="line before"><span class="ws">    </span>def write(self, object):</pre>\n<pre class="line before"><span class="ws"></span> </pre>\n<pre class="line before"><span class="ws">        </span>&quot;&quot;&quot; Writes the object\'s contents encoded to self.stream.</pre>\n<pre class="line before"><span class="ws">        </span>&quot;&quot;&quot;</pre>\n<pre class="line before"><span class="ws">        </span>data, consumed = self.encode(object, self.errors)</pre>\n<pre class="line current"><span class="ws">        </span>self.stream.write(data)</pre>\n<pre class="line after"><span class="ws"></span> </pre>\n<pre class="line after"><span class="ws">    </span>def writelines(self, list):</pre>\n<pre class="line after"><span class="ws"></span> </pre>\n<pre class="line after"><span class="ws">        </span>&quot;&quot;&quot; Writes the concatenated list of strings to the stream</pre>\n<pre class="line after"><span class="ws">            </span>using .write().</pre></div>\n</div>\n</ul>\n  <blockquote>TypeError: write() argument must be str, not bytes</blockquote>\n</div>\n\n<div class="plain">\n  <form action="/?__debugger__=yes&amp;cmd=paste" method="post">\n    <p>\n      <input type="hidden" name="language" value="pytb">\n      This is the Copy/Paste friendly version of the traceback.  <span\n      class="pastemessage">You can also paste this traceback into\n      a <a href="https://gist.github.com/">gist</a>:\n      <input type="submit" value="create paste"></span>\n    </p>\n    <textarea cols="50" rows="10" name="code" readonly>Traceback (most recent call last):\n  File &quot;C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py&quot;, line 1997, in __call__\n    return self.wsgi_app(environ, start_response)\n  File &quot;C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py&quot;, line 1985, in wsgi_app\n    response = self.handle_exception(e)\n  File &quot;C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py&quot;, line 1540, in handle_exception\n    reraise(exc_type, exc_value, tb)\n  File &quot;C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\_compat.py&quot;, line 33, in reraise\n    raise value\n  File &quot;C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py&quot;, line 1982, in wsgi_app\n    response = self.full_dispatch_request()\n  File &quot;C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py&quot;, line 1614, in full_dispatch_request\n    rv = self.handle_user_exception(e)\n  File &quot;C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py&quot;, line 1517, in handle_user_exception\n    reraise(exc_type, exc_value, tb)\n  File &quot;C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\_compat.py&quot;, line 33, in reraise\n    raise value\n  File &quot;C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py&quot;, line 1612, in full_dispatch_request\n    rv = self.dispatch_request()\n  File &quot;C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py&quot;, line 1598, in dispatch_request\n    return self.view_functions[rule.endpoint](**req.view_args)\n  File &quot;A:\\Work\\Python\\Vagrant\\api_server\\Rest_Service_sqlite_Backend.py&quot;, line 169, in new_user\n    print(&quot;existing user&quot;)\n  File &quot;C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\codecs.py&quot;, line 377, in write\n    self.stream.write(data)\nTypeError: write() argument must be str, not bytes</textarea>\n  </form>\n</div>\n<div class="explanation">\n  The debugger caught an exception in your WSGI application.  You can now\n  look at the traceback which led to the error.  <span class="nojavascript">\n  If you enable JavaScript you can also use additional features such as code\n  execution (if the evalex feature is enabled), automatic pasting of the\n  exceptions and much more.</span>\n</div>\n      <div class="footer">\n        Brought to you by <strong class="arthur">DON\'T PANIC</strong>, your\n        friendly Werkzeug powered traceback interpreter.\n      </div>\n    </div>\n\n    <div class="pin-prompt">\n      <div class="inner">\n        <h3>Console Locked</h3>\n        <p>\n          The console is locked and needs to be unlocked by entering the PIN.\n          You can find the PIN printed out on the standard output of your\n          shell that runs the server.\n        <form>\n          <p>PIN:\n            <input type=text name=pin size=14>\n            <input type=submit name=btn value="Confirm Pin">\n        </form>\n      </div>\n    </div>\n  </body>\n</html>\n\n<!--\n\nTraceback (most recent call last):\n  File "C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py", line 1997, in __call__\n    return self.wsgi_app(environ, start_response)\n  File "C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py", line 1985, in wsgi_app\n    response = self.handle_exception(e)\n  File "C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py", line 1540, in handle_exception\n    reraise(exc_type, exc_value, tb)\n  File "C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\_compat.py", line 33, in reraise\n    raise value\n  File "C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py", line 1982, in wsgi_app\n    response = self.full_dispatch_request()\n  File "C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py", line 1614, in full_dispatch_request\n    rv = self.handle_user_exception(e)\n  File "C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py", line 1517, in handle_user_exception\n    reraise(exc_type, exc_value, tb)\n  File "C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\_compat.py", line 33, in reraise\n    raise value\n  File "C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py", line 1612, in full_dispatch_request\n    rv = self.dispatch_request()\n  File "C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\site-packages\\flask\\app.py", line 1598, in dispatch_request\n    return self.view_functions[rule.endpoint](**req.view_args)\n  File "A:\\Work\\Python\\Vagrant\\api_server\\Rest_Service_sqlite_Backend.py", line 169, in new_user\n    print("existing user")\n  File "C:\\Users\\Eugene\\AppData\\Local\\Programs\\Python\\Python36\\lib\\codecs.py", line 377, in write\n    self.stream.write(data)\nTypeError: write() argument must be str, not bytes\n\n-->\n'
+2017-10-09 00:35:33,053 [testers_log] ERROR: Received an unsuccessful status code of 500
+Received an unsuccessful status code of 500
+2017-10-09 00:35:33,054 [testers_log] ERROR: Security Test 1 FAILED: Could not make a new user
+Security Test 1 FAILED: Could not make a new user
+2017-10-09 01:35:56,674 [testers_log] INFO: Attempting Test 1: Reading all Restaurants...
+Attempting Test 1: Reading all Restaurants...
+2017-10-09 01:35:57,714 [testers_log] ERROR: Received an unsuccessful status code of 500
+Received an unsuccessful status code of 500
+2017-10-09 01:35:57,714 [testers_log] ERROR: Test 1 FAILED: Could not retrieve restaurants from server
+Test 1 FAILED: Could not retrieve restaurants from server
+2017-10-09 01:39:24,229 [testers_log] INFO: Attempting Test 1: Reading all Restaurants...
+Attempting Test 1: Reading all Restaurants...
+2017-10-09 01:39:27,384 [testers_log] INFO: Test 1 PASS: Succesfully read all restaurants
+Test 1 PASS: Succesfully read all restaurants
+2017-10-09 01:39:27,384 [testers_log] INFO: URL : http://localhost:5000/users
+URL : http://localhost:5000/users
+2017-10-09 01:39:27,384 [testers_log] INFO: Data : {"username": "apiDefaultUser", "password": "P@$$W0rd"}
+Data : {"username": "apiDefaultUser", "password": "P@$$W0rd"}
+2017-10-09 01:39:28,396 [testers_log] INFO: Response : {'content-type': 'application/json', 'content-length': '39', 'server': 'Werkzeug/0.12.2 Python/3.6.2', 'date': 'Mon, 09 Oct 2017 05:39:28 GMT', 'status': '200'} Content : b'{\n  "message": "user already exists"\n}\n'
+Response : {'content-type': 'application/json', 'content-length': '39', 'server': 'Werkzeug/0.12.2 Python/3.6.2', 'date': 'Mon, 09 Oct 2017 05:39:28 GMT', 'status': '200'} Content : b'{\n  "message": "user already exists"\n}\n'
+2017-10-09 01:39:28,396 [testers_log] ERROR: Security Test 2 PASS: Succesfully made a new user
+Security Test 2 PASS: Succesfully made a new user
+2017-10-09 01:39:28,396 [testers_log] INFO: Main Test 1: Creating new Restaurant......
+Main Test 1: Creating new Restaurant......
+2017-10-09 01:39:32,576 [testers_log] INFO: Found coordinates : '-34.6036844''-58.3815591'
+Found coordinates : '-34.6036844''-58.3815591'
+2017-10-09 01:39:33,134 [testers_log] INFO: Restaurant Name: b'Suiren Sushi Express' 
+Restaurant Name: b'Suiren Sushi Express' 
+2017-10-09 01:39:33,135 [testers_log] INFO: Restaurant Address: b'Suipacha 517 (e/ Lavalle y Tucum\xc3\xa1n) 1008AAK Buenos Aires Buenos Aires C.F. Argentina ' 
+Restaurant Address: b'Suipacha 517 (e/ Lavalle y Tucum\xc3\xa1n) 1008AAK Buenos Aires Buenos Aires C.F. Argentina ' 
+2017-10-09 01:39:33,293 [testers_log] INFO: Test 2 PASS: Succesfully Made a new restaurants
+Test 2 PASS: Succesfully Made a new restaurants
+2017-10-09 01:39:33,294 [testers_log] INFO: Attempting Test 3: Reading the last created restaurant...
+Attempting Test 3: Reading the last created restaurant...
+2017-10-09 01:39:33,294 [testers_log] ERROR: Test 3 FAILED: Could not retrieve restaurant from server
+Test 3 FAILED: Could not retrieve restaurant from server
+2017-10-09 01:41:12,759 [testers_log] INFO: Attempting Test 1: Reading all Restaurants...
+Attempting Test 1: Reading all Restaurants...
+2017-10-09 01:41:15,817 [testers_log] INFO: Test 1 PASS: Succesfully read all restaurants
+Test 1 PASS: Succesfully read all restaurants
+2017-10-09 01:41:15,817 [testers_log] INFO: URL : http://localhost:5000/users
+URL : http://localhost:5000/users
+2017-10-09 01:41:15,817 [testers_log] INFO: Data : {"username": "apiDefaultUser", "password": "P@$$W0rd"}
+Data : {"username": "apiDefaultUser", "password": "P@$$W0rd"}
+2017-10-09 01:41:16,824 [testers_log] INFO: Response : {'content-type': 'application/json', 'content-length': '39', 'server': 'Werkzeug/0.12.2 Python/3.6.2', 'date': 'Mon, 09 Oct 2017 05:41:16 GMT', 'status': '200'} Content : b'{\n  "message": "user already exists"\n}\n'
+Response : {'content-type': 'application/json', 'content-length': '39', 'server': 'Werkzeug/0.12.2 Python/3.6.2', 'date': 'Mon, 09 Oct 2017 05:41:16 GMT', 'status': '200'} Content : b'{\n  "message": "user already exists"\n}\n'
+2017-10-09 01:41:16,824 [testers_log] ERROR: Security Test 2 PASS: Succesfully made a new user
+Security Test 2 PASS: Succesfully made a new user
+2017-10-09 01:41:16,824 [testers_log] INFO: Main Test 1: Creating new Restaurant......
+Main Test 1: Creating new Restaurant......
+2017-10-09 01:41:19,911 [testers_log] INFO: Found coordinates : '-34.6036844''-58.3815591'
+Found coordinates : '-34.6036844''-58.3815591'
+2017-10-09 01:41:20,493 [testers_log] INFO: Restaurant Name: b'Suiren Sushi Express' 
+Restaurant Name: b'Suiren Sushi Express' 
+2017-10-09 01:41:20,493 [testers_log] INFO: Restaurant Address: b'Suipacha 517 (e/ Lavalle y Tucum\xc3\xa1n) 1008AAK Buenos Aires Buenos Aires C.F. Argentina ' 
+Restaurant Address: b'Suipacha 517 (e/ Lavalle y Tucum\xc3\xa1n) 1008AAK Buenos Aires Buenos Aires C.F. Argentina ' 
+2017-10-09 01:41:20,523 [testers_log] INFO: Test 2 PASS: Succesfully Made a new restaurants
+Test 2 PASS: Succesfully Made a new restaurants
+2017-10-09 01:41:20,524 [testers_log] INFO: Attempting Test 3: Reading the last created restaurant...
+Attempting Test 3: Reading the last created restaurant...
+2017-10-09 01:41:23,303 [testers_log] INFO: Test 3 PASS: Succesfully read last restaurant
+Test 3 PASS: Succesfully read last restaurant
+2017-10-09 01:41:23,303 [testers_log] INFO: Attempting Test 4: Changing the name, image, and address of the first restaurant to ...
+Attempting Test 4: Changing the name, image, and address of the first restaurant to ...
+2017-10-09 01:41:23,303 [testers_log] ERROR: Test 4 FAILED: Could not update restaurant from server
+Test 4 FAILED: Could not update restaurant from server
+2017-10-09 01:41:42,842 [testers_log] INFO: Attempting Test 1: Reading all Restaurants...
+Attempting Test 1: Reading all Restaurants...
+2017-10-09 01:41:45,586 [testers_log] INFO: Test 1 PASS: Succesfully read all restaurants
+Test 1 PASS: Succesfully read all restaurants
+2017-10-09 01:41:45,586 [testers_log] INFO: URL : http://localhost:5000/users
+URL : http://localhost:5000/users
+2017-10-09 01:41:45,586 [testers_log] INFO: Data : {"username": "apiDefaultUser", "password": "P@$$W0rd"}
+Data : {"username": "apiDefaultUser", "password": "P@$$W0rd"}
+2017-10-09 01:41:46,593 [testers_log] INFO: Response : {'content-type': 'application/json', 'content-length': '39', 'server': 'Werkzeug/0.12.2 Python/3.6.2', 'date': 'Mon, 09 Oct 2017 05:41:46 GMT', 'status': '200'} Content : b'{\n  "message": "user already exists"\n}\n'
+Response : {'content-type': 'application/json', 'content-length': '39', 'server': 'Werkzeug/0.12.2 Python/3.6.2', 'date': 'Mon, 09 Oct 2017 05:41:46 GMT', 'status': '200'} Content : b'{\n  "message": "user already exists"\n}\n'
+2017-10-09 01:41:46,593 [testers_log] ERROR: Security Test 2 PASS: Succesfully made a new user
+Security Test 2 PASS: Succesfully made a new user
+2017-10-09 01:41:46,593 [testers_log] INFO: Main Test 1: Creating new Restaurant......
+Main Test 1: Creating new Restaurant......
+2017-10-09 01:41:49,651 [testers_log] INFO: Found coordinates : '-34.6036844''-58.3815591'
+Found coordinates : '-34.6036844''-58.3815591'
+2017-10-09 01:41:51,218 [testers_log] INFO: Restaurant Name: b'Suiren Sushi Express' 
+Restaurant Name: b'Suiren Sushi Express' 
+2017-10-09 01:41:51,219 [testers_log] INFO: Restaurant Address: b'Suipacha 517 (e/ Lavalle y Tucum\xc3\xa1n) 1008AAK Buenos Aires Buenos Aires C.F. Argentina ' 
+Restaurant Address: b'Suipacha 517 (e/ Lavalle y Tucum\xc3\xa1n) 1008AAK Buenos Aires Buenos Aires C.F. Argentina ' 
+2017-10-09 01:41:51,261 [testers_log] INFO: Test 2 PASS: Succesfully Made a new restaurants
+Test 2 PASS: Succesfully Made a new restaurants
+2017-10-09 01:41:51,261 [testers_log] INFO: Attempting Test 3: Reading the last created restaurant...
+Attempting Test 3: Reading the last created restaurant...
+2017-10-09 01:41:54,028 [testers_log] INFO: Test 3 PASS: Succesfully read last restaurant
+Test 3 PASS: Succesfully read last restaurant
+2017-10-09 01:41:54,028 [testers_log] INFO: Attempting Test 4: Changing the name, image, and address of the first restaurant to ...
+Attempting Test 4: Changing the name, image, and address of the first restaurant to ...
+2017-10-09 01:41:54,028 [testers_log] ERROR: Test 4 FAILED: Could not update restaurant from server
+Test 4 FAILED: Could not update restaurant from server
+2017-10-09 01:43:39,889 [testers_log] INFO: Attempting Test 1: Reading all Restaurants...
+Attempting Test 1: Reading all Restaurants...
+2017-10-09 01:43:42,587 [testers_log] INFO: Test 1 PASS: Succesfully read all restaurants
+Test 1 PASS: Succesfully read all restaurants
+2017-10-09 01:43:42,588 [testers_log] INFO: URL : http://localhost:5000/users
+URL : http://localhost:5000/users
+2017-10-09 01:43:42,588 [testers_log] INFO: Data : {"username": "apiDefaultUser", "password": "P@$$W0rd"}
+Data : {"username": "apiDefaultUser", "password": "P@$$W0rd"}
+2017-10-09 01:43:43,593 [testers_log] INFO: Response : {'content-type': 'application/json', 'content-length': '39', 'server': 'Werkzeug/0.12.2 Python/3.6.2', 'date': 'Mon, 09 Oct 2017 05:43:43 GMT', 'status': '200'} Content : b'{\n  "message": "user already exists"\n}\n'
+Response : {'content-type': 'application/json', 'content-length': '39', 'server': 'Werkzeug/0.12.2 Python/3.6.2', 'date': 'Mon, 09 Oct 2017 05:43:43 GMT', 'status': '200'} Content : b'{\n  "message": "user already exists"\n}\n'
+2017-10-09 01:43:43,594 [testers_log] ERROR: Security Test 2 PASS: Succesfully made a new user
+Security Test 2 PASS: Succesfully made a new user
+2017-10-09 01:43:43,594 [testers_log] INFO: Main Test 1: Creating new Restaurant......
+Main Test 1: Creating new Restaurant......
+2017-10-09 01:43:47,194 [testers_log] INFO: Found coordinates : '-34.6036844''-58.3815591'
+Found coordinates : '-34.6036844''-58.3815591'
+2017-10-09 01:43:47,738 [testers_log] INFO: Restaurant Name: b'Suiren Sushi Express' 
+Restaurant Name: b'Suiren Sushi Express' 
+2017-10-09 01:43:47,738 [testers_log] INFO: Restaurant Address: b'Suipacha 517 (e/ Lavalle y Tucum\xc3\xa1n) 1008AAK Buenos Aires Buenos Aires C.F. Argentina ' 
+Restaurant Address: b'Suipacha 517 (e/ Lavalle y Tucum\xc3\xa1n) 1008AAK Buenos Aires Buenos Aires C.F. Argentina ' 
+2017-10-09 01:43:47,768 [testers_log] INFO: Test 2 PASS: Succesfully Made a new restaurants
+Test 2 PASS: Succesfully Made a new restaurants
+2017-10-09 01:43:47,768 [testers_log] INFO: Attempting Test 3: Reading the last created restaurant...
+Attempting Test 3: Reading the last created restaurant...
+2017-10-09 01:43:50,530 [testers_log] INFO: Test 3 PASS: Succesfully read last restaurant
+Test 3 PASS: Succesfully read last restaurant
+2017-10-09 01:43:50,530 [testers_log] INFO: Attempting Test 4: Changing the name, image, and address of the first restaurant to ...
+Attempting Test 4: Changing the name, image, and address of the first restaurant to ...
+2017-10-09 01:43:53,257 [testers_log] INFO: Test 4 PASS: Succesfully updated first restaurant
+Test 4 PASS: Succesfully updated first restaurant
+2017-10-09 01:43:53,257 [testers_log] INFO: Attempting Test 5: Deleteing the second restaurant from the server...
+Attempting Test 5: Deleteing the second restaurant from the server...
+2017-10-09 01:43:56,019 [testers_log] INFO: Test 5 PASS: Succesfully updated first restaurant
+Test 5 PASS: Succesfully updated first restaurant
+2017-10-09 01:43:56,019 [testers_log] INFO: ALL TESTS PASSED!
+ALL TESTS PASSED!
+2017-10-09 02:04:28,688 [testers_log] INFO: User Email : eugenelarkin66@outlook.com
+User Email : eugenelarkin66@outlook.com
+2017-10-09 02:04:28,690 [testers_log] INFO: No user found.  Requesting data
+No user found.  Requesting data
+2017-10-09 02:06:28,044 [testers_log] INFO: User Email : eugenelarkin66@outlook.com
+User Email : eugenelarkin66@outlook.com
+2017-10-09 02:06:28,046 [testers_log] INFO: No user found.  Requesting data
+No user found.  Requesting data
+2017-10-09 02:07:35,996 [testers_log] INFO: Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+2017-10-09 02:07:38,808 [testers_log] INFO: Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+2017-10-09 02:07:46,287 [testers_log] INFO: User Email : eugenelarkin66@outlook.com
+User Email : eugenelarkin66@outlook.com
+2017-10-09 02:07:46,289 [testers_log] INFO: No user found.  Requesting data
+No user found.  Requesting data
+2017-10-09 02:09:42,392 [testers_log] INFO: Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+2017-10-09 02:09:43,723 [testers_log] INFO: Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+2017-10-09 02:09:51,745 [testers_log] INFO: User Email : eugenelarkin66@outlook.com
+User Email : eugenelarkin66@outlook.com
+2017-10-09 02:09:51,747 [testers_log] INFO: No user found.  Requesting data
+No user found.  Requesting data
+2017-10-09 02:09:51,747 [testers_log] INFO: Consumer Key : tM98uyeQag5A9oobme0hlfYIf
+Consumer Key : tM98uyeQag5A9oobme0hlfYIf
+2017-10-09 02:12:52,727 [testers_log] INFO: Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+2017-10-09 02:12:59,573 [testers_log] INFO: User Email : eugenelarkin66@outlook.com
+User Email : eugenelarkin66@outlook.com
+2017-10-09 02:12:59,576 [testers_log] INFO: No user found.  Requesting data
+No user found.  Requesting data
+2017-10-09 02:12:59,576 [testers_log] INFO: Consumer Key : tM98uyeQag5A9oobme0hlfYIf
+Consumer Key : tM98uyeQag5A9oobme0hlfYIf
+2017-10-09 02:15:09,329 [testers_log] INFO: Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+2017-10-09 02:15:12,172 [testers_log] INFO: Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+2017-10-09 02:15:12,962 [testers_log] INFO: Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+2017-10-09 02:15:33,015 [testers_log] INFO: Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+2017-10-09 02:15:33,800 [testers_log] INFO: Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+2017-10-09 02:16:50,532 [testers_log] INFO: User Email : eugenelarkin66@outlook.com
+User Email : eugenelarkin66@outlook.com
+2017-10-09 02:16:50,534 [testers_log] INFO: No user found.  Requesting data
+No user found.  Requesting data
+2017-10-09 02:16:50,534 [testers_log] INFO: Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+2017-10-09 02:16:50,535 [testers_log] INFO: Consumer Key : tM98uyeQag5A9oobme0hlfYIf
+Consumer Key : tM98uyeQag5A9oobme0hlfYIf
+2017-10-09 02:20:50,585 [testers_log] INFO: User Email : eugenelarkin66@outlook.com
+User Email : eugenelarkin66@outlook.com
+2017-10-09 02:20:50,587 [testers_log] INFO: No user found.  Requesting data
+No user found.  Requesting data
+2017-10-09 02:20:50,588 [testers_log] INFO: Consumer : oauth_consumer_key=6rMEPcsKZDNpNxKsY6hfNl6PY&oauth_consumer_secret=3B2V3xiYA2q0MQmPsuDQwCPdWqZccJiHlpC45dI07i8ulJMehh
+Consumer : oauth_consumer_key=6rMEPcsKZDNpNxKsY6hfNl6PY&oauth_consumer_secret=3B2V3xiYA2q0MQmPsuDQwCPdWqZccJiHlpC45dI07i8ulJMehh
+2017-10-09 02:20:50,588 [testers_log] INFO: Consumer Key : 6rMEPcsKZDNpNxKsY6hfNl6PY
+Consumer Key : 6rMEPcsKZDNpNxKsY6hfNl6PY
+2017-10-09 12:06:30,884 [testers_log] INFO: Attempting Test 1: Reading all Restaurants...
+Attempting Test 1: Reading all Restaurants...
+2017-10-09 12:06:33,659 [testers_log] INFO: Test 1 PASS: Succesfully read all restaurants
+Test 1 PASS: Succesfully read all restaurants
+2017-10-09 12:06:33,659 [testers_log] INFO: URL : http://localhost:5000/users
+URL : http://localhost:5000/users
+2017-10-09 12:06:33,659 [testers_log] INFO: Data : {"username": "apiDefaultUser", "password": "P@$$W0rd"}
+Data : {"username": "apiDefaultUser", "password": "P@$$W0rd"}
+2017-10-09 12:06:34,666 [testers_log] INFO: Response : {'content-type': 'application/json', 'content-length': '39', 'server': 'Werkzeug/0.12.2 Python/3.6.2', 'date': 'Mon, 09 Oct 2017 16:06:34 GMT', 'status': '200'} Content : b'{\n  "message": "user already exists"\n}\n'
+Response : {'content-type': 'application/json', 'content-length': '39', 'server': 'Werkzeug/0.12.2 Python/3.6.2', 'date': 'Mon, 09 Oct 2017 16:06:34 GMT', 'status': '200'} Content : b'{\n  "message": "user already exists"\n}\n'
+2017-10-09 12:06:34,666 [testers_log] ERROR: Security Test 2 PASS: Succesfully made a new user
+Security Test 2 PASS: Succesfully made a new user
+2017-10-09 12:06:34,666 [testers_log] INFO: Main Test 1: Creating new Restaurant......
+Main Test 1: Creating new Restaurant......
+2017-10-09 12:06:38,656 [testers_log] INFO: Found coordinates : '-34.6036844''-58.3815591'
+Found coordinates : '-34.6036844''-58.3815591'
+2017-10-09 12:06:39,234 [testers_log] INFO: Restaurant Name: b'Suiren Sushi Express' 
+Restaurant Name: b'Suiren Sushi Express' 
+2017-10-09 12:06:39,235 [testers_log] INFO: Restaurant Address: b'Suipacha 517 (e/ Lavalle y Tucum\xc3\xa1n) 1008AAK Buenos Aires Buenos Aires C.F. Argentina ' 
+Restaurant Address: b'Suipacha 517 (e/ Lavalle y Tucum\xc3\xa1n) 1008AAK Buenos Aires Buenos Aires C.F. Argentina ' 
+2017-10-09 12:06:39,265 [testers_log] INFO: Test 2 PASS: Succesfully Made a new restaurants
+Test 2 PASS: Succesfully Made a new restaurants
+2017-10-09 12:06:39,265 [testers_log] INFO: Attempting Test 3: Reading the last created restaurant...
+Attempting Test 3: Reading the last created restaurant...
+2017-10-09 12:06:42,035 [testers_log] INFO: Test 3 PASS: Succesfully read last restaurant
+Test 3 PASS: Succesfully read last restaurant
+2017-10-09 12:06:42,036 [testers_log] INFO: Attempting Test 4: Changing the name, image, and address of the first restaurant to ...
+Attempting Test 4: Changing the name, image, and address of the first restaurant to ...
+2017-10-09 12:06:44,745 [testers_log] INFO: Test 4 PASS: Succesfully updated first restaurant
+Test 4 PASS: Succesfully updated first restaurant
+2017-10-09 12:06:44,745 [testers_log] INFO: Attempting Test 5: Deleteing the second restaurant from the server...
+Attempting Test 5: Deleteing the second restaurant from the server...
+2017-10-09 12:06:47,458 [testers_log] INFO: Test 5 PASS: Succesfully updated first restaurant
+Test 5 PASS: Succesfully updated first restaurant
+2017-10-09 12:06:47,458 [testers_log] INFO: ALL TESTS PASSED!
+ALL TESTS PASSED!
+2017-10-09 12:09:27,590 [testers_log] INFO: Attempting Test 1: Reading all Restaurants...
+Attempting Test 1: Reading all Restaurants...
+2017-10-09 12:09:28,659 [testers_log] ERROR: Received an unsuccessful status code of 500
+Received an unsuccessful status code of 500
+2017-10-09 12:09:28,659 [testers_log] ERROR: Test 1 FAILED: Could not retrieve restaurants from server
+Test 1 FAILED: Could not retrieve restaurants from server
+2017-10-09 12:09:59,536 [testers_log] INFO: Attempting Test 1: Reading all Restaurants...
+Attempting Test 1: Reading all Restaurants...
+2017-10-09 12:10:00,619 [testers_log] ERROR: Received an unsuccessful status code of 500
+Received an unsuccessful status code of 500
+2017-10-09 12:10:00,619 [testers_log] ERROR: Test 1 FAILED: Could not retrieve restaurants from server
+Test 1 FAILED: Could not retrieve restaurants from server
+2017-10-09 12:14:31,731 [testers_log] INFO: Attempting Test 1: Reading all Restaurants...
+Attempting Test 1: Reading all Restaurants...
+2017-10-09 12:14:32,791 [testers_log] ERROR: Received an unsuccessful status code of 500
+Received an unsuccessful status code of 500
+2017-10-09 12:14:32,791 [testers_log] ERROR: Test 1 FAILED: Could not retrieve restaurants from server
+Test 1 FAILED: Could not retrieve restaurants from server
+2017-10-09 12:15:02,990 [testers_log] INFO: Attempting Test 1: Reading all Restaurants...
+Attempting Test 1: Reading all Restaurants...
+2017-10-09 12:15:04,178 [testers_log] ERROR: Received an unsuccessful status code of 500
+Received an unsuccessful status code of 500
+2017-10-09 12:15:04,178 [testers_log] ERROR: Test 1 FAILED: Could not retrieve restaurants from server
+Test 1 FAILED: Could not retrieve restaurants from server
+2017-10-09 12:17:08,328 [testers_log] INFO: Attempting Test 1: Reading all Restaurants...
+Attempting Test 1: Reading all Restaurants...
+2017-10-09 12:17:10,338 [testers_log] ERROR: Test 1 FAILED: Could not retrieve restaurants from server
+Test 1 FAILED: Could not retrieve restaurants from server
+2017-10-09 13:33:58,486 [testers_log] INFO: Attempting Test 1: Reading all Restaurants...
+Attempting Test 1: Reading all Restaurants...
+2017-10-09 13:33:59,690 [testers_log] ERROR: Received an unsuccessful status code of 500
+Received an unsuccessful status code of 500
+2017-10-09 13:33:59,691 [testers_log] ERROR: Test 1 FAILED: Could not retrieve restaurants from server
+Test 1 FAILED: Could not retrieve restaurants from server
+2017-10-09 13:35:15,924 [testers_log] INFO: Attempting Test 1: Reading all Restaurants...
+Attempting Test 1: Reading all Restaurants...
+2017-10-09 13:35:17,143 [testers_log] ERROR: Received an unsuccessful status code of 500
+Received an unsuccessful status code of 500
+2017-10-09 13:35:17,143 [testers_log] ERROR: Test 1 FAILED: Could not retrieve restaurants from server
+Test 1 FAILED: Could not retrieve restaurants from server
+2017-10-09 13:36:43,689 [testers_log] INFO: Attempting Test 1: Reading all Restaurants...
+Attempting Test 1: Reading all Restaurants...
+2017-10-09 13:36:44,906 [testers_log] ERROR: Received an unsuccessful status code of 500
+Received an unsuccessful status code of 500
+2017-10-09 13:36:44,907 [testers_log] ERROR: Test 1 FAILED: Could not retrieve restaurants from server
+Test 1 FAILED: Could not retrieve restaurants from server
+2017-10-09 13:37:31,631 [testers_log] INFO: Attempting Test 1: Reading all Restaurants...
+Attempting Test 1: Reading all Restaurants...
+2017-10-09 13:37:32,823 [testers_log] ERROR: Received an unsuccessful status code of 500
+Received an unsuccessful status code of 500
+2017-10-09 13:37:32,824 [testers_log] ERROR: Test 1 FAILED: Could not retrieve restaurants from server
+Test 1 FAILED: Could not retrieve restaurants from server
+2017-10-09 13:38:57,493 [testers_log] INFO: Attempting Test 1: Reading all Restaurants...
+Attempting Test 1: Reading all Restaurants...
+2017-10-09 13:39:00,745 [testers_log] INFO: Test 1 PASS: Succesfully read all restaurants
+Test 1 PASS: Succesfully read all restaurants
+2017-10-09 13:39:00,745 [testers_log] INFO: URL : http://localhost:5000/users
+URL : http://localhost:5000/users
+2017-10-09 13:39:00,745 [testers_log] INFO: Data : {"username": "apiDefaultUser", "password": "P@$$W0rd"}
+Data : {"username": "apiDefaultUser", "password": "P@$$W0rd"}
+2017-10-09 13:39:01,753 [testers_log] INFO: Response : {'content-type': 'application/json', 'content-length': '39', 'server': 'Werkzeug/0.12.2 Python/3.6.2', 'date': 'Mon, 09 Oct 2017 17:39:01 GMT', 'status': '200'} Content : b'{\n  "message": "user already exists"\n}\n'
+Response : {'content-type': 'application/json', 'content-length': '39', 'server': 'Werkzeug/0.12.2 Python/3.6.2', 'date': 'Mon, 09 Oct 2017 17:39:01 GMT', 'status': '200'} Content : b'{\n  "message": "user already exists"\n}\n'
+2017-10-09 13:39:01,753 [testers_log] ERROR: Security Test 2 PASS: Succesfully made a new user
+Security Test 2 PASS: Succesfully made a new user
+2017-10-09 13:39:01,753 [testers_log] INFO: Main Test 1: Creating new Restaurant......
+Main Test 1: Creating new Restaurant......
+2017-10-09 13:39:05,925 [testers_log] INFO: Found coordinates : '-34.6036844''-58.3815591'
+Found coordinates : '-34.6036844''-58.3815591'
+2017-10-09 13:39:06,462 [testers_log] INFO: Restaurant Name: b'Suiren Sushi Express' 
+Restaurant Name: b'Suiren Sushi Express' 
+2017-10-09 13:39:06,463 [testers_log] INFO: Restaurant Address: b'Suipacha 517 (e/ Lavalle y Tucum\xc3\xa1n) 1008AAK Buenos Aires Buenos Aires C.F. Argentina ' 
+Restaurant Address: b'Suipacha 517 (e/ Lavalle y Tucum\xc3\xa1n) 1008AAK Buenos Aires Buenos Aires C.F. Argentina ' 
+2017-10-09 13:39:06,493 [testers_log] INFO: Test 2 PASS: Succesfully Made a new restaurants
+Test 2 PASS: Succesfully Made a new restaurants
+2017-10-09 13:39:06,493 [testers_log] INFO: Attempting Test 3: Reading the last created restaurant...
+Attempting Test 3: Reading the last created restaurant...
+2017-10-09 13:39:09,260 [testers_log] INFO: Test 3 PASS: Succesfully read last restaurant
+Test 3 PASS: Succesfully read last restaurant
+2017-10-09 13:39:09,260 [testers_log] INFO: Attempting Test 4: Changing the name, image, and address of the first restaurant to ...
+Attempting Test 4: Changing the name, image, and address of the first restaurant to ...
+2017-10-09 13:39:11,994 [testers_log] INFO: Test 4 PASS: Succesfully updated first restaurant
+Test 4 PASS: Succesfully updated first restaurant
+2017-10-09 13:39:11,994 [testers_log] INFO: Attempting Test 5: Deleteing the second restaurant from the server...
+Attempting Test 5: Deleteing the second restaurant from the server...
+2017-10-09 13:39:14,718 [testers_log] INFO: Test 5 PASS: Succesfully updated first restaurant
+Test 5 PASS: Succesfully updated first restaurant
+2017-10-09 13:39:14,718 [testers_log] INFO: ALL TESTS PASSED!
+ALL TESTS PASSED!
+2017-10-09 14:41:27,377 [testers_log] INFO: User Email : eugenelarkin66@outlook.com
+User Email : eugenelarkin66@outlook.com
+2017-10-09 14:41:27,383 [testers_log] INFO: No user found.  Requesting data
+No user found.  Requesting data
+2017-10-09 14:41:27,383 [testers_log] INFO: Consumer : oauth_consumer_key=6rMEPcsKZDNpNxKsY6hfNl6PY&oauth_consumer_secret=3B2V3xiYA2q0MQmPsuDQwCPdWqZccJiHlpC45dI07i8ulJMehh
+Consumer : oauth_consumer_key=6rMEPcsKZDNpNxKsY6hfNl6PY&oauth_consumer_secret=3B2V3xiYA2q0MQmPsuDQwCPdWqZccJiHlpC45dI07i8ulJMehh
+2017-10-09 14:41:27,383 [testers_log] INFO: Consumer Key : 6rMEPcsKZDNpNxKsY6hfNl6PY
+Consumer Key : 6rMEPcsKZDNpNxKsY6hfNl6PY
+2017-10-09 14:46:51,647 [testers_log] INFO: User Email : eugenelarkin66@outlook.com
+User Email : eugenelarkin66@outlook.com
+2017-10-09 14:46:51,649 [testers_log] INFO: No user found.  Requesting data
+No user found.  Requesting data
+2017-10-09 14:46:51,650 [testers_log] INFO: Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+2017-10-09 14:46:51,650 [testers_log] INFO: Consumer Key : tM98uyeQag5A9oobme0hlfYIf
+Consumer Key : tM98uyeQag5A9oobme0hlfYIf
+2017-10-09 16:13:59,656 [testers_log] INFO: User Email : eugenelarkin66@outlook.co
+User Email : eugenelarkin66@outlook.co
+2017-10-09 16:13:59,660 [testers_log] INFO: No user found.  Requesting data
+No user found.  Requesting data
+2017-10-09 16:13:59,660 [testers_log] INFO: Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+2017-10-09 16:13:59,660 [testers_log] INFO: Consumer Key : tM98uyeQag5A9oobme0hlfYIf
+Consumer Key : tM98uyeQag5A9oobme0hlfYIf
+2017-10-09 16:21:32,036 [testers_log] INFO: User Email : eugenelarkin66@outlook.com
+User Email : eugenelarkin66@outlook.com
+2017-10-09 16:21:32,038 [testers_log] INFO: No user found.  Requesting data
+No user found.  Requesting data
+2017-10-09 16:21:32,039 [testers_log] INFO: Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+2017-10-09 16:21:32,039 [testers_log] INFO: Consumer Key : tM98uyeQag5A9oobme0hlfYIf
+Consumer Key : tM98uyeQag5A9oobme0hlfYIf
+2017-10-09 16:21:32,467 [testers_log] ERROR: An error occurred getting the request token from Twitter
+An error occurred getting the request token from Twitter
+2017-10-09 16:21:32,468 [testers_log] INFO: Token received : {}
+Token received : {}
+2017-10-09 16:31:51,618 [testers_log] INFO: User Email : eugenelarkin66@outlook.com
+User Email : eugenelarkin66@outlook.com
+2017-10-09 16:31:51,621 [testers_log] INFO: No user found.  Requesting data
+No user found.  Requesting data
+2017-10-09 16:31:51,621 [testers_log] INFO: Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+2017-10-09 16:31:51,622 [testers_log] INFO: Consumer Key : tM98uyeQag5A9oobme0hlfYIf
+Consumer Key : tM98uyeQag5A9oobme0hlfYIf
+2017-10-09 16:31:51,998 [testers_log] ERROR: An error occurred getting the request token from Twitter
+An error occurred getting the request token from Twitter
+2017-10-09 16:31:51,999 [testers_log] INFO: Token received : {}
+Token received : {}
+2017-10-09 16:31:51,999 [testers_log] INFO: Oauth Verifier Requested For Request Token : {}
+Oauth Verifier Requested For Request Token : {}
+2017-10-09 16:37:22,660 [testers_log] INFO: User Email : eugenelarkin66@outlook.com
+User Email : eugenelarkin66@outlook.com
+2017-10-09 16:37:22,663 [testers_log] INFO: No user found.  Requesting data
+No user found.  Requesting data
+2017-10-09 16:37:22,663 [testers_log] INFO: Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+2017-10-09 16:37:22,664 [testers_log] INFO: Consumer Key : tM98uyeQag5A9oobme0hlfYIf
+Consumer Key : tM98uyeQag5A9oobme0hlfYIf
+2017-10-09 16:37:23,188 [testers_log] INFO: Token received : {'oauth_token': '_yrt-wAAAAAA2iM4AAABXwLbOZE', 'oauth_token_secret': 'acQixrChylsPh7aZU3YoK4xHQTGYIwEm', 'oauth_callback_confirmed': 'true'}
+Token received : {'oauth_token': '_yrt-wAAAAAA2iM4AAABXwLbOZE', 'oauth_token_secret': 'acQixrChylsPh7aZU3YoK4xHQTGYIwEm', 'oauth_callback_confirmed': 'true'}
+2017-10-09 16:37:23,188 [testers_log] INFO: Oauth Verifier Requested For Request Token : {'oauth_token': '_yrt-wAAAAAA2iM4AAABXwLbOZE', 'oauth_token_secret': 'acQixrChylsPh7aZU3YoK4xHQTGYIwEm', 'oauth_callback_confirmed': 'true'}
+Oauth Verifier Requested For Request Token : {'oauth_token': '_yrt-wAAAAAA2iM4AAABXwLbOZE', 'oauth_token_secret': 'acQixrChylsPh7aZU3YoK4xHQTGYIwEm', 'oauth_callback_confirmed': 'true'}
+2017-10-09 16:37:23,188 [testers_log] INFO: User sent to the following URL : https://api.twitter.com/oauth/authorize?oauth_token=_yrt-wAAAAAA2iM4AAABXwLbOZE
+User sent to the following URL : https://api.twitter.com/oauth/authorize?oauth_token=_yrt-wAAAAAA2iM4AAABXwLbOZE
+2017-10-09 16:38:14,881 [testers_log] INFO: User Email : eugenelarkin66@outlook.com
+User Email : eugenelarkin66@outlook.com
+2017-10-09 16:38:14,884 [testers_log] INFO: No user found.  Requesting data
+No user found.  Requesting data
+2017-10-09 16:38:14,884 [testers_log] INFO: Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+2017-10-09 16:38:14,885 [testers_log] INFO: Consumer Key : tM98uyeQag5A9oobme0hlfYIf
+Consumer Key : tM98uyeQag5A9oobme0hlfYIf
+2017-10-09 16:38:15,302 [testers_log] INFO: Token received : {'oauth_token': 'nCT6VQAAAAAA2iM4AAABXwLcBW4', 'oauth_token_secret': 'uhUTIcTvbOm4RIRBi1euUZHE2gT908GA', 'oauth_callback_confirmed': 'true'}
+Token received : {'oauth_token': 'nCT6VQAAAAAA2iM4AAABXwLcBW4', 'oauth_token_secret': 'uhUTIcTvbOm4RIRBi1euUZHE2gT908GA', 'oauth_callback_confirmed': 'true'}
+2017-10-09 16:38:15,302 [testers_log] INFO: Oauth Verifier Requested For Request Token : {'oauth_token': 'nCT6VQAAAAAA2iM4AAABXwLcBW4', 'oauth_token_secret': 'uhUTIcTvbOm4RIRBi1euUZHE2gT908GA', 'oauth_callback_confirmed': 'true'}
+Oauth Verifier Requested For Request Token : {'oauth_token': 'nCT6VQAAAAAA2iM4AAABXwLcBW4', 'oauth_token_secret': 'uhUTIcTvbOm4RIRBi1euUZHE2gT908GA', 'oauth_callback_confirmed': 'true'}
+2017-10-09 16:38:15,302 [testers_log] INFO: User sent to the following URL : https://api.twitter.com/oauth/authorize?oauth_token=nCT6VQAAAAAA2iM4AAABXwLcBW4
+User sent to the following URL : https://api.twitter.com/oauth/authorize?oauth_token=nCT6VQAAAAAA2iM4AAABXwLcBW4
+2017-10-09 17:46:07,351 [testers_log] INFO: User Email : eugenelarkin66@outlook.com
+User Email : eugenelarkin66@outlook.com
+2017-10-09 17:46:07,354 [testers_log] INFO: No user found.  Requesting data
+No user found.  Requesting data
+2017-10-09 17:46:07,354 [testers_log] INFO: Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+Consumer : oauth_consumer_key=tM98uyeQag5A9oobme0hlfYIf&oauth_consumer_secret=YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+2017-10-09 17:46:07,354 [testers_log] INFO: Consumer Key : tM98uyeQag5A9oobme0hlfYIf
+Consumer Key : tM98uyeQag5A9oobme0hlfYIf
+2017-10-09 17:46:08,195 [testers_log] INFO: Token received : {'oauth_token': 'K98ukgAAAAAA2iM4AAABXwMaKvc', 'oauth_token_secret': 'tXfDOENJtROfySuKMaDsLFtlbTVvyRCc', 'oauth_callback_confirmed': 'true'}
+Token received : {'oauth_token': 'K98ukgAAAAAA2iM4AAABXwMaKvc', 'oauth_token_secret': 'tXfDOENJtROfySuKMaDsLFtlbTVvyRCc', 'oauth_callback_confirmed': 'true'}
+2017-10-09 17:46:08,196 [testers_log] INFO: Oauth Verifier Requested For Request Token : {'oauth_token': 'K98ukgAAAAAA2iM4AAABXwMaKvc', 'oauth_token_secret': 'tXfDOENJtROfySuKMaDsLFtlbTVvyRCc', 'oauth_callback_confirmed': 'true'}
+Oauth Verifier Requested For Request Token : {'oauth_token': 'K98ukgAAAAAA2iM4AAABXwMaKvc', 'oauth_token_secret': 'tXfDOENJtROfySuKMaDsLFtlbTVvyRCc', 'oauth_callback_confirmed': 'true'}
+2017-10-09 17:46:08,196 [testers_log] INFO: User sent to the following URL : https://api.twitter.com/oauth/authorize?oauth_token=K98ukgAAAAAA2iM4AAABXwMaKvc
+User sent to the following URL : https://api.twitter.com/oauth/authorize?oauth_token=K98ukgAAAAAA2iM4AAABXwMaKvc

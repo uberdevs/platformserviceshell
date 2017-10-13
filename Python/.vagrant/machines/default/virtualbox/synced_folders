@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant":{"mount_options":["dmode=774","fmode=775","uid=1000","gid=1000"],"guestpath":"/vagrant","hostpath":"A:/Work/Python/Vagrant/api_server","disabled":false,"__vagrantfile":true}}}

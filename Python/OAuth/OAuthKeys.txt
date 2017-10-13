@@ -1,0 +1,35 @@
+foursquare_client_id = "ASRWBUZJHURDV0TABWQFRCJA5TJL3TPSLDBIK22RTI5TJLCT"
+foursquare_client_secret = "ULPEZYNSFCXT2XRTVWME2TORWVKQSJ1BEU12NQBPUR2X4BWH"
+google_api_key = 'AIzaSyAW__6gKmgSq3iczkfQwIpmXayskyqqaf0'
+
+Google OAuth Client ID : 1010835874970-phdhhpva8aqdddv2qm1u0ektuhr8elv9.apps.googleusercontent.com
+
+Google OAuth Client Secret : c6l8lyg-mOPimb5mylF0OpsB
+
+Twitter
+
+Application Settings
+Your application's Consumer Key and Secret are used to authenticate requests to the Twitter Platform.
+Access level	Read and write (modify app permissions)
+Consumer Key (API Key)	tM98uyeQag5A9oobme0hlfYIf (manage keys and access tokens)
+Callback URL	http://www.personalizedsolution.com
+Callback URL Locked	No
+Sign in with Twitter	Yes
+App-only authentication	https://api.twitter.com/oauth2/token
+Request token URL	https://api.twitter.com/oauth/request_token
+Authorize URL	https://api.twitter.com/oauth/authorize
+Access token URL	https://api.twitter.com/oauth/access_token
+
+Consumer Key (API Key)	tM98uyeQag5A9oobme0hlfYIf
+Consumer Secret (API Secret)	YLwPgdQmMSvtgEFf24cxsssEHbdswO0fhthQ0lC0QxSjie78Qn
+Access Level	Read and write (modify app permissions)
+Owner	coffee24By7
+Owner ID	866127964215234560
+
+Your Access Token
+This access token can be used to make API requests on your own account's behalf. Do not share your access token secret with anyone.
+Access Token	866127964215234560-lqETXxXncqlqoXOJIJwZh41fPav5SBt
+Access Token Secret	BgWsmaNMS2s40Ybx0EAKlhs8QTQkp7Tty7A3eokwjg2yp
+Access Level	Read and write
+Owner	coffee24By7
+Owner ID	866127964215234560

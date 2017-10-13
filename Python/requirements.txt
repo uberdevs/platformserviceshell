@@ -1,0 +1,15 @@
+psycopg2==2.7.3.1
+oauth2
+urllib3
+oauth2client
+configobj
+preprocessing
+ruamel.yaml
+pyaml
+logger
+flask
+sqlalchemy
+Flask-MongoAlchemy
+configparser
+BeautifulSoup4
+config
